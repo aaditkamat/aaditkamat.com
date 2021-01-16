@@ -22,7 +22,7 @@ export const aboutData = {
     'As a college student, I delight in the fact that I have thus far been exposed to different tools and technologies and gotten the opportunity to step out of my comfort zone. I hope to extend the learning journey beyond what the school has to offer and believe that a great platform to do this is through internships. Hence, I am open to job opportunities and involving myself in new experiences.',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://bit.ly/3nPAgWT', // if no resume, the button will not show up
+  resume: 'https://bit.ly/3sv7Kwn', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
