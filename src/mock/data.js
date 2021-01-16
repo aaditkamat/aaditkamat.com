@@ -69,11 +69,6 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: 'https://twitter.com/@K12Aadit',
-    },
-    {
-      id: nanoid(),
       name: 'quora',
       url: 'https://www.quora.com/profile/Aadit-Kamat',
     },
