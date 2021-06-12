@@ -1,22 +1,40 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
-import App from '../components/App';
-import { headData } from '../mock/data';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import '../style/main.scss';
+import clsx from 'clsx';
+import Layout from '@theme/Layout';
+import Link from '@docusaurus/Link';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import styles from './index.module.css';
+import HomepageFeatures from '../components/HomepageFeatures';
 
-export default () => {
-  const { title, lang, description } = headData;
-
+function HomepageHeader() {
+  const {siteConfig} = useDocusaurusContext();
   return (
-    <>
-      <Helmet>
-        <meta charSet="utf-8" />
-        <title>{title || 'Aadit Rahul Kamat'}</title>
-        <html lang={lang || 'en'} />
-        <meta name="description" content={description || 'Aadit Rahul Kamat'} />
-      </Helmet>
-      <App />
-    </>
+    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <div className="container">
+        <h1 className="hero__title">{siteConfig.title}</h1>
+        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/intro">
+            Docusaurus Tutorial - 5min ⏱️
+          </Link>
+        </div>
+      </div>
+    </header>
   );
-};
+}
+
+export default function Home() {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+    <Layout
+      title={`Hello from ${siteConfig.title}`}
+      description="Description will go into a meta tag in <head />">
+      <HomepageHeader />
+      <main>
+        <HomepageFeatures />
+      </main>
+    </Layout>
+  );
+}
