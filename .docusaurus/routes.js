@@ -43,11 +43,6 @@ export default [
   exact: true,
 },
 {
-  path: '/404',
-  component: ComponentCreator('/404','728'),
-  exact: true,
-},
-{
   path: '/blog',
   component: ComponentCreator('/blog','b11'),
   exact: true,

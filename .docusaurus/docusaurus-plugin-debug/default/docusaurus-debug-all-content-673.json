@@ -467,11 +467,6 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/404",
-        "source": "@site/src/pages/404.js"
-      },
-      {
-        "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
       },
