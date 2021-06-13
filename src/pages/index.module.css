@@ -4,9 +4,12 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
+ .container.landing {
+  background-color: green;
+ }
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 1rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
