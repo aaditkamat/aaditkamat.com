@@ -1,0 +1,14 @@
+.roundedCircle {
+    border-radius: 50% !important;
+}
+
+.header {
+    padding: 2em;
+    text-align: center;
+}
+
+.info {
+    width: 540px;
+    height: 350px;
+    margin-left: 2em;
+}
