@@ -25,6 +25,10 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
+  "/about-me/-fce": {
+    "component": "component---site-src-pages-about-me-index-js-518-659",
+    "config": "config---5-e-9-4f3"
+  },
   "/blog-b11": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---blogad-0-4ba",
@@ -110,48 +114,16 @@
     "sidebar": "sidebar---blogad-0-4ba",
     "content": "content---blog-welcome-286-e55"
   },
-  "/markdown-page-be1": {
+  "/projects-7fe": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---markdown-page-393-028"
+    "content": "content---projectse-00-f95"
   },
-  "/docs-18a": {
+  "/docs-93b": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
   "/docs/intro-e84": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
-  },
-  "/docs/tutorial-basics/congratulations-7ef": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
-  },
-  "/docs/tutorial-basics/create-a-blog-post-2c8": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
-  },
-  "/docs/tutorial-basics/create-a-document-f0d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
-  },
-  "/docs/tutorial-basics/create-a-page-ca5": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
-  },
-  "/docs/tutorial-basics/deploy-your-site-508": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
-  "/docs/tutorial-basics/markdown-features-f90": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
-  },
-  "/docs/tutorial-extras/manage-docs-versions-d64": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
-  },
-  "/docs/tutorial-extras/translate-your-site-16a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   }
 }

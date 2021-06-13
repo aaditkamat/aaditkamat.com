@@ -105,10 +105,6 @@ export default {
     [
       "@docusaurus/preset-classic",
       {
-        "docs": {
-          "sidebarPath": "/Users/aaditkamat/Projects/aaditkamat.github.io/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
-        },
         "blog": {
           "showReadingTime": true,
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
