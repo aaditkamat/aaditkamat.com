@@ -32,7 +32,7 @@ export default function AboutMe() {
                             out that section of the website as well.
                             </p>
                             <p>
-                            Last but not the least, I've described some of the past projects I've worked on in a seperate
+                            Last but not the least, I've described some of the projects I've worked on in the past in a seperate
                             section.
                             </p>
                             <Link
