@@ -16,16 +16,33 @@ export default function AboutMe() {
                                 <img src="static/img/profile.jpg" className={styles.roundedCircle} style={{height: "350px", width:"350px"}}/>
                             </div>
                             <div className={clsx("col-md-6 col-sm-12", styles.info)}>
-                                <p>
-                                As a college student, I delight in the fact that I have thus far been exposed to different tools and technologies and gotten the opportunity to step out of my comfort zone. I hope to extend the learning journey beyond what the school has to offer and believe that a great platform to do this is through internships. Hence, I am open to job opportunities and involving myself in new experiences.
-                                </p>
-                                <Link
-                                    className="button button--secondary button--lg"
-                                    to="/about-me">
-                                    Resume
-                                </Link>
+                            <p>  
+                            I'm currently working full time as a QA Engineer in the Android Front End Automation Platform team at Shopee.
+                            I recently graduated from the National University of Singapore with a Bachelor of Computing
+                            in Computer Science. I love to code and contribute to open source projects when I can.
+                            </p>
+                            <p>
+                            Apart from coding, I also like to read books, online articles and blogs as well as 
+                            watch YouTube videos and podcasts to enhance my knowledge on topics that interest me
+                            and provide new perspectives. I've linked some of my favourite resources in the "Top 10's"
+                            section of the website. 
+                            </p>
+                            <p>
+                            I'm also trying my hand at writing blog posts, so do be sure to check
+                            out that section of the website as well.
+                            </p>
+                            <p>
+                            Last but not the least, I've described some of the past projects I've worked on in a seperate
+                            section.
+                            </p>
+                            <Link
+                                className="button button--secondary button--lg"
+                                to="/about-me">
+                                Resume
+                            </Link>
                             </div>
                         </div>
+                        <div className="row" style={{padding: '3em'}}></div>
                     </div>
                 </section>
             </div>

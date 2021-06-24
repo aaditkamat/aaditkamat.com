@@ -9,6 +9,7 @@
 
 .info {
     width: 540px;
-    height: 350px;
+    height: fit-content;
     margin-left: 2em;
+    margin-top: 2em;
 }
