@@ -9,17 +9,20 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout>
-        <Navbar />
-        <div className="container landing">
-           <h1> Hi, my name is Aadit Rahul Kamat! </h1>
-           <p> Full Stack Developer </p>
-           <Link
-             className="button button--secondary button--lg"
-             to="/about-me">
-               Know more
-           </Link>
-        </div>
-        <Footer />
+        <section className={styles.hero}>
+          <div className="container" >
+            <h1 className={styles.heroTitle}>
+              <span>Hello world, this is Aadit. </span>
+              <br />
+              <span> Welcome to my website! </span>
+            </h1>
+            <Link
+              className="button button--secondary button--lg"
+              to="/about-me">
+                Know more
+            </Link>
+          </div>
+        </section>
     </Layout>
   );
 }
