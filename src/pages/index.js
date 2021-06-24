@@ -1,22 +1,28 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
-import App from '../components/App';
-import { headData } from '../mock/data';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import '../style/main.scss';
+import clsx from 'clsx';
+import Layout from '@theme/Layout';
+import Link from '@docusaurus/Link';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import styles from './index.module.css';
 
-export default () => {
-  const { title, lang, description } = headData;
-
+export default function Home() {
+  const {siteConfig} = useDocusaurusContext();
   return (
-    <>
-      <Helmet>
-        <meta charSet="utf-8" />
-        <title>{title || 'Aadit Rahul Kamat'}</title>
-        <html lang={lang || 'en'} />
-        <meta name="description" content={description || 'Aadit Rahul Kamat'} />
-      </Helmet>
-      <App />
-    </>
+    <Layout>
+        <section className={styles.hero}>
+          <div className="container" >
+            <h1 className={styles.heroTitle}>
+              <span>Hello world, this is Aadit. </span>
+              <br />
+              <span> Welcome to my website! </span>
+            </h1>
+            <Link
+              className="button button--secondary button--lg"
+              to="/about-me">
+                Know more
+            </Link>
+          </div>
+        </section>
+    </Layout>
   );
-};
+}
