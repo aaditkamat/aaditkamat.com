@@ -1,6 +1,6 @@
 ---
-slug: getting-my-moderna-shots-part-1
-title: Getting My Moderna Shots (Part 1)
+slug: getting-my-moderna-shots
+title: Getting My Moderna Shots
 author: Aadit Kamat
 author_title: QA Engineer @ Shopee
 author_url: https://github.com/aaditkamat
