@@ -62,4 +62,4 @@ Before you head off to your appointment, do make sure to bring along your NRIC/F
 
 With this account of my experience getting my first shot of Moderna, I hope to encourage others to sign up for their slots and see the vaccination rates go up even higher so that we can ease more restrictions and take steps towards returning to normalcy as a nation. For further questions, doubts and concerns with regards to the vaccine, do make sure to check out the [COVID-19 Vaccination FAQs on the MOH Website](https://www.moh.gov.sg/covid-19/vaccination/faqs).
 
-At the time of this writing, I'm feeling fine apart from a slight swelling in the arm. That seems perfectly normal, as I experience this even when I get a normal flu jab. I'm looking forward to write about my experience after getting the second shot, which is known to generally elicit stronger reactions, in the second part of this post.
+At the time of this writing, I'm feeling fine apart from a slight swelling in the arm. That seems perfectly normal, as I experience this even when I get a normal flu jab.
