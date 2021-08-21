@@ -13,7 +13,7 @@ export default function AboutMe() {
                         <h1 className={styles.header}> ABOUT ME </h1>
                         <div className="row">
                             <div className="col-md-6 col-sm-12" >
-                                <img src="static/img/profile.jpg" className={styles.roundedCircle} style={{height: "350px", width:"350px"}}/>
+                                <img src="img/profile.jpg" className={styles.roundedCircle} style={{height: "350px", width:"350px"}}/>
                             </div>
                             <div className={clsx("col-md-6 col-sm-12", styles.info)}>
                             <p>  
