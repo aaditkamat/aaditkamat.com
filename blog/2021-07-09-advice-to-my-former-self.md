@@ -1,6 +1,6 @@
 ---
 slug: advice-to-my-former-self
-title: What you should know as an undergraduate student: advice to my former self
+title: What you should know as an undergraduate student - advice to my former self
 author: Aadit Kamat
 author_title: QA Engineer @ Shopee
 author_url: https://github.com/aaditkamat
