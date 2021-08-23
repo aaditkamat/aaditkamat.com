@@ -1,12 +1,11 @@
 .hero {
-  display: flex;
+  padding-top: 5%;
   align-items: center;
-  height: 50vh;
 }
 
 .heroTitle {
-  font-size: 60px;
+  font-size: 40px;
   font-weight: 700;
   margin-bottom: 3.2rem;
-  text-align: left;
+  text-align: center;
 }
