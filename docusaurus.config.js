@@ -1,12 +1,12 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Aadit Kamat',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'QA Engineer at Shopee',
+  url: 'https://aaditkamat.me',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/profile.jpg',
   organizationName: 'aaditkamat', // Usually your GitHub org/user name.
   projectName: 'aaditkamat.github.io', // Usually your repo name.
   themeConfig: {
@@ -20,6 +20,11 @@ module.exports = {
         {
           to: '/about-me',
           label: 'About Me',
+          position: 'right'
+        },
+        {
+          to: '/resume',
+          label: 'Resume',
           position: 'right'
         },
         {
