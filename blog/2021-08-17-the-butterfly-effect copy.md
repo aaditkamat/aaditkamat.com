@@ -1,6 +1,6 @@
 ---
 slug: the-butterfly-effect
-title: The buttefly effect
+title: The butterfly effect
 author: Aadit Kamat
 author_title: QA Engineer @ Shopee
 author_url: https://github.com/aaditkamat
