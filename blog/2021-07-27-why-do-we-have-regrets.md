@@ -1,6 +1,6 @@
 ---
-slug: working-9-to-5
-title: Working 9 to 5, what a way to make a living!
+slug: why-do-we-have-regrets
+title: Why do we have regrets?
 author: Aadit Kamat
 author_title: QA Engineer @ Shopee
 author_url: https://github.com/aaditkamat
