@@ -1,0 +1,1 @@
+(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[9650],{7172:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"technology","name":"technology","count":1,"permalink":"/blog/tags/technology"}')}}]);

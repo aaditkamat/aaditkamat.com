@@ -1,0 +1,1 @@
+(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[53],{9054:function(e){"use strict";e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","isLast":true,"docsSidebars":{"defaultSidebar":[{"type":"link","label":"intro","href":"/docs/intro"}]},"permalinkToSidebar":{"/docs/intro":"defaultSidebar"}}')}}]);

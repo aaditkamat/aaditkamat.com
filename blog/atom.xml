@@ -1,163 +1,240 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog</id>
+    <id>https://aaditkamat.github.io/blog</id>
     <title>Aadit Kamat Blog</title>
-    <updated>2021-07-30T00:00:00.000Z</updated>
+    <updated>2021-08-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <link rel="alternate" href="https://aaditkamat.github.io/blog"/>
     <subtitle>Aadit Kamat Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <icon>https://aaditkamat.github.io/img/profile.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[Writing as an external data processing system]]></title>
+        <id>writing-as-an-external-data-processing-system</id>
+        <link href="https://aaditkamat.github.io/blog/writing-as-an-external-data-processing-system"/>
+        <updated>2021-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As I started to think more about writing online, I often wondered to myself about how people would write before the printing press was invented. The advent of the printing press made it much easier to create copies and distribute, which led to a boom in the publishing industry. This effect has only been magnified as people have switched from pen and paper to computers. How then did people end up writing, before the processes integral to writing, such as copying and editing, became mainstream?]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The butterfly effect]]></title>
+        <id>the-butterfly-effect</id>
+        <link href="https://aaditkamat.github.io/blog/the-butterfly-effect"/>
+        <updated>2021-08-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Even as I post this, I wonder: I may not make much of an impact as an individual who is posting this, no matter how many notes I create, but people like me who use these platforms in large numbers will eventually put a strain on the systems underlying these platforms.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking your career in the right direction]]></title>
+        <id>taking-your-career-in-the-right-direction</id>
+        <link href="https://aaditkamat.github.io/blog/taking-your-career-in-the-right-direction"/>
+        <updated>2021-08-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In modern societies, humans spend a large amount of their time at work. By rough estimates, a human on average spends 80,000 hours in his or her career. That's a very long time.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is college essential for success?]]></title>
+        <id>is-college-essential-for-success</id>
+        <link href="https://aaditkamat.github.io/blog/is-college-essential-for-success"/>
+        <updated>2021-08-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The learning experience in college experience is very different from the learning experience in schools. You have more flexibility to choose the courses related to your major as long as you meet the degree requirements. You not only learn hard skills related to your discipline, but also develop soft skills that are critical for success not only within college but also later on in life.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parenting in the digital world]]></title>
+        <id>parenting-in-the-digital-world</id>
+        <link href="https://aaditkamat.github.io/blog/parenting-in-the-digital-world"/>
+        <updated>2021-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this digital age, children are exposed to a vast amount of information through the internet. On one hand, children can be better informed about the current affairs and issues in the modern world. On the other, they are also faced with a lot of distractions that shift away their focus from the things that are most important for them.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is challenging the conventional wisdom always necessary?]]></title>
+        <id>is-challenging-the-conventional-wisdom-always-necessary</id>
+        <link href="https://aaditkamat.github.io/blog/is-challenging-the-conventional-wisdom-always-necessary"/>
+        <updated>2021-08-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I was listening to a conversation between Lex Fridman and Michael Stevens, the creator of the popular YouTube channel VSauce, over the Lex Fridman podcast. They were discussing topics such as artificial intelligence, the simulation hypothesis and the flat earth hypothesis.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should we read more self help books?]]></title>
+        <id>should-we-read-more-self-help-books</id>
+        <link href="https://aaditkamat.github.io/blog/should-we-read-more-self-help-books"/>
+        <updated>2021-08-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Self-help books generally encode principles that help you chart goals for your life. Once you have determined those goals, you can live life in a way that aligns with those goals. Self-help books also provide ideas that will help you improve. The improvement generally comes from within - the books primarily serve to spark motivation.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Importance of Education]]></title>
+        <id>importance-of-education</id>
+        <link href="https://aaditkamat.github.io/blog/importance-of-education"/>
+        <updated>2021-08-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Education equips individuals with basic literacy skills like reading and writing. While the primary aim of modern education is to help students develop a set of core competencies or "hard skills", it also helps them furnish soft skills like communication and teamwork that are becoming more and more critical in the workplace.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Staying focussed amidst distractions]]></title>
+        <id>staying-focussed-amidst-distractions</id>
+        <link href="https://aaditkamat.github.io/blog/staying-focussed-amidst-distractions"/>
+        <updated>2021-08-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The modern world is filled with distractions. You just have to take out your phone and lo behold, there are so many applications vying for your immediate attention.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why we need to change our relationship with technology]]></title>
+        <id>why-we-need-to-change-our-relationship-with-technology</id>
+        <link href="https://aaditkamat.github.io/blog/why-we-need-to-change-our-relationship-with-technology"/>
+        <updated>2021-08-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Through the term technology, I'm referring to a range of different porducts and services that have been made available to us through scientific progress. However in recent times, this term has started to be used in a more narrow sense, to describe computers like laptops and personal computers or devices in which computers have been embedded like mobile devices.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sticking to an exercise routine]]></title>
+        <id>sticking-to-an-exercise-routine</id>
+        <link href="https://aaditkamat.github.io/blog/sticking-to-an-exercise-routine"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For the past 3 weeks, I've been trying to build an exercise habit. I usually get up around 6 in the morning. While I initially started with just Yoga exercises in the morning, I realized that I can make better use of my time by doing HIIT workouts first and then doing Yoga as part of the cool down routine.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sports exemplifies the human spirit]]></title>
         <id>sports-exemplifies-the-human-spirit</id>
-        <link href="https://your-docusaurus-test-site.com/blog/sports-exemplifies-the-human-spirit"/>
+        <link href="https://aaditkamat.github.io/blog/sports-exemplifies-the-human-spirit"/>
         <updated>2021-07-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I generally don't watch that much sports, but it's the Olympics season so I wanted to catch some of the action. As I switch on the channel broadcasting the Olympics only after work ends at 7 pm, I was only able to watch the swimming event.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Power Of Music To Uplift]]></title>
         <id>the-power-of-music-to-uplift</id>
-        <link href="https://your-docusaurus-test-site.com/blog/the-power-of-music-to-uplift"/>
+        <link href="https://aaditkamat.github.io/blog/the-power-of-music-to-uplift"/>
         <updated>2021-07-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Recently, I was listening to Rise by Jack & Jack. It stirred up memories of my trip to the United States back in 2018. I experienced a mental boost due to the nostalgic value that the song held for me. I now realize why music is said to have therapeutic effects. It can elevate your mood.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[The State of Happiness]]></title>
         <id>the-state-of-happiness</id>
-        <link href="https://your-docusaurus-test-site.com/blog/the-state-of-happiness"/>
+        <link href="https://aaditkamat.github.io/blog/the-state-of-happiness"/>
         <updated>2021-07-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[It appears as though every human being on this planet ultimately seeks to be happy. As most of us will be aware through our personal experiences though, it is impossible to achieve everlasting happiness. Life is like a bag of experiences, those that give us joy mixed with others that bring us grief.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Working 9 to 5, what a way to make a living!]]></title>
-        <id>working-9-to-5</id>
-        <link href="https://your-docusaurus-test-site.com/blog/working-9-to-5"/>
+        <title type="html"><![CDATA[Why do we have regrets?]]></title>
+        <id>why-do-we-have-regrets</id>
+        <link href="https://aaditkamat.github.io/blog/why-do-we-have-regrets"/>
         <updated>2021-07-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Youngsters like me are always on a look out for advice that can help us make the best use of our time and set ourselves up for the future. Advice from elders are usually packed with insights. They wish to convey information that they think is important for us youngsters to know. This way we don't have to reinvent the wheel and go through the same struggles they did.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Working 9 to 5, what a way to make a living!]]></title>
         <id>working-9-to-5</id>
-        <link href="https://your-docusaurus-test-site.com/blog/working-9-to-5"/>
+        <link href="https://aaditkamat.github.io/blog/working-9-to-5"/>
         <updated>2021-07-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[As a child, I never considered what it would be like to work regular hours in an office job. This is something that I took for granted. However, now as a fresh graduate who has stepped into the working world, I have been thinking more about how a 9-to-5 job seems to have almost become a rite of passage since the Industrial Age.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rising up after failure]]></title>
         <id>rising-up-after-failure</id>
-        <link href="https://your-docusaurus-test-site.com/blog/rising-up-after-failure"/>
+        <link href="https://aaditkamat.github.io/blog/rising-up-after-failure"/>
         <updated>2021-07-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This afternoon, as I was watching the videos for a React Native course on Udemy, I came across an image that I found quite inspirational. In this image, success has been described in terms of an iceberg illusion. A success story is like the tip of an iceberg. When you hear about it, you are exposed to only one portion, the portion that worked right, but are unaware of what's hidden beneath. Those hidden portions of the story, such as the sacrifices made by the individual, the perseverance despite setbacks, and the determination to forge ahead are left out either because it's easy to forget them when you reflect on the story retrospectively or because they do not appear glamorous enough.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Power of Habit]]></title>
         <id>power-of-habit</id>
-        <link href="https://your-docusaurus-test-site.com/blog/power-of-habit"/>
+        <link href="https://aaditkamat.github.io/blog/power-of-habit"/>
         <updated>2021-07-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Try to think of all the things you do when you wake up in the morning: brush your teeth, take a morning shower, catch up on the news, eat breakfast. How many of these things do you do consciously and how many of them have become a part of your routine? An introspection of our daily routines makes us realise how much of our lifestyle is habitual, built up over a long time.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Inculcating a reading habit]]></title>
         <id>inculcating-a-reading-habit</id>
-        <link href="https://your-docusaurus-test-site.com/blog/inculcating-a-reading-habit"/>
+        <link href="https://aaditkamat.github.io/blog/inculcating-a-reading-habit"/>
         <updated>2021-07-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Since high school, I have fallen behind on my reading habit. After graduating from college though, I've come to realize that it is important to inculcate a reading habit.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Patience is a virtue]]></title>
         <id>patience-is-a-virtue</id>
-        <link href="https://your-docusaurus-test-site.com/blog/patience-is-a-virtue"/>
+        <link href="https://aaditkamat.github.io/blog/patience-is-a-virtue"/>
         <updated>2021-07-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Patience is a personality trait enshrined within the morals of stories that most of us have grown up with. On a personal level, it's something that I hope to build up with time.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[You need to sleep]]></title>
         <id>you-need-to-sleep</id>
-        <link href="https://your-docusaurus-test-site.com/blog/you-need-to-sleep"/>
+        <link href="https://aaditkamat.github.io/blog/you-need-to-sleep"/>
         <updated>2021-07-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I love to sleep. I mean, who doesn't honestly? At the same time, I'm also quite fussy about my sleep. If I get more sleep than I need, I feel like I'm being lazy. On the other hand, if I sleep too less, I end up feeling more tired. I've been trying for that sweet spot of 7 hours.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Importance of a daily routine]]></title>
         <id>importance-of-a-daily-routine</id>
-        <link href="https://your-docusaurus-test-site.com/blog/importance-of-a-daily-routine"/>
+        <link href="https://aaditkamat.github.io/blog/importance-of-a-daily-routine"/>
         <updated>2021-07-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Back when I was in college, I didn't use to give much thought to how I should plan out my day. It isn't surprising, given that the nature of college life is hectic and variable. The workload for the semester changes depending on the number of credits you need to clear, what specialization you wish to pursue, and in general what your goals are for that semester.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Learning How To Learn]]></title>
         <id>learning-how-to-learn</id>
-        <link href="https://your-docusaurus-test-site.com/blog/learning-how-to-learn"/>
+        <link href="https://aaditkamat.github.io/blog/learning-how-to-learn"/>
         <updated>2021-07-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This morning, I started reading a book called "Learn Like A Pro" by Barbara Oakley. I had taken her course "Learning How To Learn", which was one of the most popular MOOCs on Coursera at the time.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Is social media doing us more harm than good?]]></title>
         <id>is-social-media-doing-us-more-harm-than-good</id>
-        <link href="https://your-docusaurus-test-site.com/blog/is-social-media-doing-us-more-harm-than-good"/>
+        <link href="https://aaditkamat.github.io/blog/is-social-media-doing-us-more-harm-than-good"/>
         <updated>2021-07-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Since the start of May, I've been cutting back on my social media time. There are two main factors that guided this decision:]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unsubscribe from all (ok, maybe most) email newsletters]]></title>
-        <id>unsubscribe-from-all-email-newsletters</id>
-        <link href="https://your-docusaurus-test-site.com/blog/unsubscribe-from-all-email-newsletters"/>
-        <updated>2021-07-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As of late, I have found myself unsubscribing from a lot of email newsletters. While some such as the Morning Brew are important for me to catch up with the news for the day, others just don't provide me as much value as I had expected when I first signed up for them. I am particularly annoyed by the newsletters that I get from different companies informing me about their latest events or products and services starting to get a little annoying. Yes Apple, I'm talking about all those emails you have sent me for the 1-year Apple TV+ subscription or the 6 months free Apple Music subscription that I absolutely do not need at this point.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learning To Embrace Boredom]]></title>
         <id>learning-to-embrace-boredom</id>
-        <link href="https://your-docusaurus-test-site.com/blog/learning-to-embrace-boredom"/>
+        <link href="https://aaditkamat.github.io/blog/learning-to-embrace-boredom"/>
         <updated>2021-07-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I'll be the first to admit, I have a lot of work to do to improve my relationship with boredom. I don't necessarily think that boredom is something that must be avoided at all costs, but it does make me uncomfortable. It lulls me into the false trap of thinking that I'm not being productive.]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Unsubscribe from all (ok, maybe most) email newsletters]]></title>
+        <id>unsubscribe-from-all-email-newsletters</id>
+        <link href="https://aaditkamat.github.io/blog/unsubscribe-from-all-email-newsletters"/>
+        <updated>2021-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As of late, I have found myself unsubscribing from a lot of email newsletters. While some such as the Morning Brew are important for me to catch up with the news for the day, others just don't provide me as much value as I had expected when I first signed up for them. I am particularly annoyed by the newsletters that I get from different companies informing me about their latest events or products and services starting to get a little annoying. Yes Apple, I'm talking about all those emails you have sent me for the 1-year Apple TV+ subscription or the 6 months free Apple Music subscription that I absolutely do not need at this point.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Is Overpopulation really a major crisis?]]></title>
         <id>is-overpopulation-really-a-major-crisis</id>
-        <link href="https://your-docusaurus-test-site.com/blog/is-overpopulation-really-a-major-crisis"/>
+        <link href="https://aaditkamat.github.io/blog/is-overpopulation-really-a-major-crisis"/>
         <updated>2021-07-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I've viewed the growth in human population over the last century in a negative light. I remember discussing this issue with a relative who brought up the point about how the population has grown from less than a billion in the 1800s to a whopping figure of 7.9 billion, quadrupling over the last century.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[A minimalistic approach to our digital lives]]></title>
         <id>a-minimalistic-approach-to-our-digital-lives</id>
-        <link href="https://your-docusaurus-test-site.com/blog/a-minimalistic-approach-to-our-digital-lives"/>
+        <link href="https://aaditkamat.github.io/blog/a-minimalistic-approach-to-our-digital-lives"/>
         <updated>2021-07-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Let's face it, all of us are surrounded by a lot of information right now, produced by a large number of creators that exist within the digital landscape. Having access to such a large amount of information at our fingertips gives us the impression that we are becoming smarter. But are we really? Or is all that information confusing us instead?]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Are we living in a simulation?]]></title>
         <id>are-we-living-in-a-simulation</id>
-        <link href="https://your-docusaurus-test-site.com/blog/are-we-living-in-a-simulation"/>
+        <link href="https://aaditkamat.github.io/blog/are-we-living-in-a-simulation"/>
         <updated>2021-07-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I first started to contemplate the idea of whether reality is a simulation as I reflected upon the complexity of human life and the history of mankind.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[An assessment of the role of money in modern society]]></title>
         <id>an-assessment-of-the-role-of-money-in-modern-society</id>
-        <link href="https://your-docusaurus-test-site.com/blog/an-assessment-of-the-role-of-money-in-modern-society"/>
+        <link href="https://aaditkamat.github.io/blog/an-assessment-of-the-role-of-money-in-modern-society"/>
         <updated>2021-07-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Money can be viewed primarily as a medium of exchange for goods and services. As history goes, different forms of money have evolved from the barter system where one person, the buyer, offers goods or services to the other person, the seller in return for goods or services of equivalent value.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stop comparing yourself with others]]></title>
         <id>stop-comparing-yourself-with-others</id>
-        <link href="https://your-docusaurus-test-site.com/blog/stop-comparing-yourself-with-others"/>
+        <link href="https://aaditkamat.github.io/blog/stop-comparing-yourself-with-others"/>
         <updated>2021-07-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[As I have had issues with self-confidence and compared myself with others, I was naturally drawn towards this question: Is comparison always a negative tendency?]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[What you should know as an undergraduate student - advice to my former self]]></title>
         <id>advice-to-my-former-self</id>
-        <link href="https://your-docusaurus-test-site.com/blog/advice-to-my-former-self"/>
+        <link href="https://aaditkamat.github.io/blog/advice-to-my-former-self"/>
         <updated>2021-07-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[There comes a time after a student graduates where he reflects back upon his journey through the undergraduate days, usually right after his graduation. These are the four things that I wish I had known as an undergraduate student back in college.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Getting My Moderna Shots]]></title>
         <id>getting-my-moderna-shots</id>
-        <link href="https://your-docusaurus-test-site.com/blog/getting-my-moderna-shots"/>
+        <link href="https://aaditkamat.github.io/blog/getting-my-moderna-shots"/>
         <updated>2021-06-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[It was announced on 11th June in Singapore that [those in the age group of]]></summary>
     </entry>

@@ -1,1 +1,0 @@
-(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8989],{9165:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"covid-19","name":"covid-19","count":1,"permalink":"/blog/tags/covid-19"}')}}]);
