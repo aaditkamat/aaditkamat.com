@@ -8,7 +8,7 @@ export default function Resume() {
         <Layout title="Resume">
             <div className={clsx("container", styles.container)}>
                 <h1 className={styles.header}> RESUME </h1>
-                <iframe src="resume.pdf" width="100%" height="100%" />
+                <iframe src="../resume.pdf" width="100%" height="100%" />
             </div>
         </Layout>
     );
