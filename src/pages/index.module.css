@@ -9,3 +9,15 @@
   margin-bottom: 3.2rem;
   text-align: center;
 }
+
+.icon {
+  margin: 10px;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover {
+  color: var(--ifm-link-color);
+}
