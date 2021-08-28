@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaditkamat.github.io/blog</id>
     <title>Aadit Kamat Blog</title>
-    <updated>2021-08-19T00:00:00.000Z</updated>
+    <updated>2021-08-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaditkamat.github.io/blog"/>
     <subtitle>Aadit Kamat Blog</subtitle>
     <icon>https://aaditkamat.github.io/img/profile.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[Learn Like a Pro - A Book Review]]></title>
+        <id>learn-like-a-pro-a-book-review</id>
+        <link href="https://aaditkamat.github.io/blog/learn-like-a-pro-a-book-review"/>
+        <updated>2021-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Even though I have graduated from college, I felt that it was necessary for me to read this book to become an effective lifelong learner. I had taken the popular MOOC "Learning How To Learn" taught by Barbara Oakley on Coursera during my undergrad years. In that course, she had mentioned a lot of the topics that have been covered in this book as well. I believe that I hadn't fared as well in college as I had hoped to because I did not apply concepts taught in the course to build good learning habits.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Writing as an external data processing system]]></title>
         <id>writing-as-an-external-data-processing-system</id>
