@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Aadit Kamat',
   tagline: 'QA Engineer at Shopee',
-  url: 'https://aaditkamat.me',
+  url: 'https://aaditkamat.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
