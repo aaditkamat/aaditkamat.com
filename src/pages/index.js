@@ -11,7 +11,7 @@ export default function Home() {
             <div className={styles.heroTitle}>
               Hello world, this is Aadit. 
               <br /> <br /> 
-              Welcome to my 🏠
+              Welcome to my 🏠 on the internet.
               <br /> <br />
               You can also find me on:
               <br /> <br/>
