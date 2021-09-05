@@ -10,7 +10,7 @@ tags: [books]
 
 Goodreads link: https://www.goodreads.com/book/show/52455951-deep-human
 
-In this book, Crystal Lim-Lange, the former Director for the Centre of Future-Ready Graduates (CFG) at the National University of Singapore and Greg, the former Head for the Learning & Development at CFG share the 5 skills, which they call "Deep Human Superskills", that they believe are important for professionals to thrive in the age of automation where existing industries are being disrupted by technological interventions.
+In this book, Crystal Lim-Lange, the former Director for the Centre of Future-Ready Graduates (CFG) at the National University of Singapore and Dr. Greg Lim-Lange, the former Head for the Learning & Development at CFG share the 5 skills, which they call "Deep Human Superskills", that they believe are important for professionals to thrive in the age of automation where existing industries are being disrupted by technological interventions.
 
 ## Skill 1: Focus & Mindfulness
 As Crystal and Greg put it, we have become the "champions of distractedness". This becomes self-evident as we observe the people around us during the commute, glued to their mobile devices and unaware of their surroundings. 
