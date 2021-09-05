@@ -4,9 +4,16 @@
         <title>Aadit Kamat Blog</title>
         <link>https://aaditkamat.github.io/blog</link>
         <description>Aadit Kamat Blog</description>
-        <lastBuildDate>Thu, 02 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Deep Human - A Book Review]]></title>
+            <link>https://aaditkamat.github.io/blog/deep-human-a-review</link>
+            <guid>deep-human-a-review</guid>
+            <pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[In this book, Crystal Lim-Lange, the former Director for the Centre of Future-Ready Graduates (CFG) at the National University of Singapore and Greg, the former Head for the Learning & Development at CFG share the 5 skills, which they call "Deep Human Superskills", that they believe are important for professionals to thrive in the age of automation where existing industries are being disrupted by technological interventions.]]></description>
+        </item>
         <item>
             <title><![CDATA[So Good They Can't Ignore You - A Book Review]]></title>
             <link>https://aaditkamat.github.io/blog/so-good-they-can't-ignore-you-a-review</link>
