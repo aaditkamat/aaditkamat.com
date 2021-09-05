@@ -8,6 +8,8 @@ author_image_url: https://avatars.githubusercontent.com/u/30969577?s=400&u=9558f
 tags: [books]
 ---
 
+Goodreads link: https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you
+
 In this book written in 2012, Cal Newport, a professor of Computer Science at Georgetown University, distils his career advice into a set of four rules that centre around the concept of being "so good they can't ignore you".
 
 ## Rule #1: Don't follow your passion

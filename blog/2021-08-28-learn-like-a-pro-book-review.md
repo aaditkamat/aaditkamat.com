@@ -8,6 +8,8 @@ author_image_url: https://avatars.githubusercontent.com/u/30969577?s=400&u=9558f
 tags: [books]
 ---
 
+Goodreads link: https://www.goodreads.com/book/show/54860365-learn-like-a-pro
+
 Even though I have graduated from college, I felt that it was necessary for me to read this book to become an effective lifelong learner. I had taken the popular MOOC "Learning How To Learn" taught by Barbara Oakley on Coursera during my undergrad years. In that course, she had mentioned a lot of the topics that have been covered in this book as well. I believe that I hadn't fared as well in college as I had hoped to because I did not apply concepts taught in the course to build good learning habits. 
 
 Here are the some of the biggest takeways from this book:
