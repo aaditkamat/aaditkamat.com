@@ -1,6 +1,6 @@
 ---
-slug: it-is-ok-to-forget
-title: It Is Ok To Forget
+slug: it's-ok-to-forget
+title: It's Ok To Forget
 author: Aadit Kamat
 author_title: QA Engineer @ Shopee
 author_url: https://github.com/aaditkamat
