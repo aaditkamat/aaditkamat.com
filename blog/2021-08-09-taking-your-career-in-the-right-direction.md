@@ -9,7 +9,7 @@ tags: [work]
 ---
 
 In modern societies, humans spend a large amount of their time at work. By rough estimates, a human on average spends 80,000 hours in his or her career. That's a very long time.
- 
+
 One of the major reasons that humans have to work is that they need to earn a livelihood. Another equally important reason, however, is that solving any problem of significant magnitude requires a considerable amount of investment of resources like time and money that only groups can pool together.
 
 Armed with this knowledge, it makes sense to pick a career that is likely to create the most impact. This is the idea behind the 80000 hours initiative affiliated with the Centre of Effective Altruism at the University of Oxford. 
