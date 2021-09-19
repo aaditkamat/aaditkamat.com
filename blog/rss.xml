@@ -4,9 +4,16 @@
         <title>Aadit Kamat Blog</title>
         <link>https://aaditkamat.github.io/blog</link>
         <description>Aadit Kamat Blog</description>
-        <lastBuildDate>Sat, 11 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Embrace the messiness of creativity]]></title>
+            <link>https://aaditkamat.github.io/blog/embrace-the-messiness-of-creativity</link>
+            <guid>embrace-the-messiness-of-creativity</guid>
+            <pubDate>Sun, 19 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[We often like to look at the end result and awe at the mastery involved in creating that result. However, as most of us will come to realise soon enough, analyzing the creative process retrospectively is not very useful.]]></description>
+        </item>
         <item>
             <title><![CDATA[It's Ok To Forget]]></title>
             <link>https://aaditkamat.github.io/blog/it's-ok-to-forget</link>
@@ -162,18 +169,18 @@
             <description><![CDATA[Try to think of all the things you do when you wake up in the morning: brush your teeth, take a morning shower, catch up on the news, eat breakfast. How many of these things do you do consciously and how many of them have become a part of your routine? An introspection of our daily routines makes us realise how much of our lifestyle is habitual, built up over a long time.]]></description>
         </item>
         <item>
-            <title><![CDATA[Patience is a virtue]]></title>
-            <link>https://aaditkamat.github.io/blog/patience-is-a-virtue</link>
-            <guid>patience-is-a-virtue</guid>
-            <pubDate>Fri, 23 Jul 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Patience is a personality trait enshrined within the morals of stories that most of us have grown up with. On a personal level, it's something that I hope to build up with time.]]></description>
-        </item>
-        <item>
             <title><![CDATA[Inculcating a reading habit]]></title>
             <link>https://aaditkamat.github.io/blog/inculcating-a-reading-habit</link>
             <guid>inculcating-a-reading-habit</guid>
             <pubDate>Fri, 23 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Since high school, I have fallen behind on my reading habit. After graduating from college though, I've come to realize that it is important to inculcate a reading habit.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Patience is a virtue]]></title>
+            <link>https://aaditkamat.github.io/blog/patience-is-a-virtue</link>
+            <guid>patience-is-a-virtue</guid>
+            <pubDate>Fri, 23 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Patience is a personality trait enshrined within the morals of stories that most of us have grown up with. On a personal level, it's something that I hope to build up with time.]]></description>
         </item>
         <item>
             <title><![CDATA[You need to sleep]]></title>
