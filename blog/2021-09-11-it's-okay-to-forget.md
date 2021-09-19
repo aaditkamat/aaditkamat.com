@@ -5,7 +5,7 @@ author: Aadit Kamat
 author_title: QA Engineer @ Shopee
 author_url: https://github.com/aaditkamat
 author_image_url: https://avatars.githubusercontent.com/u/30969577?s=400&u=9558fc3557d79c88a7080034fe8c22654aca2e4d&v=4
-tags: [podcasts, books,]
+tags: [productivity, podcasts, books]
 ---
 
 Podcast link: https://freakonomics.com/podcast/nsq-books-influence-repeat/
