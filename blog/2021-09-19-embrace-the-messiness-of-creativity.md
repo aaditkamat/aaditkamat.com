@@ -46,7 +46,8 @@ At a time you may be focussing on only one level but you have to shuttle back an
 
 Unless you embrace the challenges of doing that and inevitably introducing bugs or having to fix other bugs or defects, you aren't going to harness the power of coding.
 
-## Physical exercise
+## Exercising
+
 Physical exercise has elements of non-linearity that define other creative processes incorporated within it as well. 
 
 Rather than grinding it out without trying to sufficient breaks, [HIIT exercises are likely to get you better results](https://www.nbcnews.com/better/lifestyle/15-minute-full-body-hiit-workout-no-equipment-required-ncna977711). This is because you are varying in between bursts of focus and breaks.
