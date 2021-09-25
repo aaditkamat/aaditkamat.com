@@ -29,7 +29,7 @@ Of course, these values need not be set in stone. They are likely to change as y
 
 They act as internal compasses that guide you through difficult times, that ensure you don't get swept up in the tides of change. Amidst the wavering winds, you remain standing erect like an unmovable mountain. 
 
-With the deluge of information in the internet age, it is hard not to get overwhelmed. The only panacea to this information overload is to create](https://manuswong.com/how-consumerism-is-killing-our-creativity/). Creativity does not have to look glamorous: it starts with the simple decisions you take to design your life.
+With the deluge of information in the internet age, it is hard not to get overwhelmed. [The only panacea to this information overload is to create](https://manuswong.com/how-consumerism-is-killing-our-creativity/). Creativity does not have to look glamorous: it starts with the simple decisions you take to design your life.
 
 When you realise that what guides you ahead is solely what you have learned, from your own experiences and from what others teach you along the way, that you free yourself from the burden. All the bells and whistles will not distract you. You will end up becoming happier, without actively trying to pursue happiness.
 
