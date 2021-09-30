@@ -1,1 +1,0 @@
-(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[790],{8997:function(t){"use strict";t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"productivity","name":"productivity","count":10,"permalink":"/blog/tags/productivity"}')}}]);

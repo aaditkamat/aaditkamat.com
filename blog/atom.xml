@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaditkamat.github.io/blog</id>
     <title>Aadit Kamat Blog</title>
-    <updated>2021-09-23T00:00:00.000Z</updated>
+    <updated>2021-09-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaditkamat.github.io/blog"/>
     <subtitle>Aadit Kamat Blog</subtitle>
     <icon>https://aaditkamat.github.io/img/profile.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[Creativity leads to happiness]]></title>
+        <id>creativity-leads-to-happiness</id>
+        <link href="https://aaditkamat.github.io/blog/creativity-leads-to-happiness"/>
+        <updated>2021-09-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In my previous blog post, I had discussed about how happiness is a measure of success.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happiness is success]]></title>
         <id>happiness-is-success</id>
@@ -176,18 +183,18 @@
         <summary type="html"><![CDATA[Try to think of all the things you do when you wake up in the morning: brush your teeth, take a morning shower, catch up on the news, eat breakfast. How many of these things do you do consciously and how many of them have become a part of your routine? An introspection of our daily routines makes us realise how much of our lifestyle is habitual, built up over a long time.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Patience is a virtue]]></title>
-        <id>patience-is-a-virtue</id>
-        <link href="https://aaditkamat.github.io/blog/patience-is-a-virtue"/>
-        <updated>2021-07-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Patience is a personality trait enshrined within the morals of stories that most of us have grown up with. On a personal level, it's something that I hope to build up with time.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Inculcating a reading habit]]></title>
         <id>inculcating-a-reading-habit</id>
         <link href="https://aaditkamat.github.io/blog/inculcating-a-reading-habit"/>
         <updated>2021-07-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Since high school, I have fallen behind on my reading habit. After graduating from college though, I've come to realize that it is important to inculcate a reading habit.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patience is a virtue]]></title>
+        <id>patience-is-a-virtue</id>
+        <link href="https://aaditkamat.github.io/blog/patience-is-a-virtue"/>
+        <updated>2021-07-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Patience is a personality trait enshrined within the morals of stories that most of us have grown up with. On a personal level, it's something that I hope to build up with time.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[You need to sleep]]></title>
@@ -218,18 +225,18 @@
         <summary type="html"><![CDATA[Since the start of May, I've been cutting back on my social media time. There are two main factors that guided this decision:]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unsubscribe from all (ok, maybe most) email newsletters]]></title>
-        <id>unsubscribe-from-all-email-newsletters</id>
-        <link href="https://aaditkamat.github.io/blog/unsubscribe-from-all-email-newsletters"/>
-        <updated>2021-07-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As of late, I have found myself unsubscribing from a lot of email newsletters. While some such as the Morning Brew are important for me to catch up with the news for the day, others just don't provide me as much value as I had expected when I first signed up for them. I am particularly annoyed by the newsletters that I get from different companies informing me about their latest events or products and services starting to get a little annoying. Yes Apple, I'm talking about all those emails you have sent me for the 1-year Apple TV+ subscription or the 6 months free Apple Music subscription that I absolutely do not need at this point.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learning To Embrace Boredom]]></title>
         <id>learning-to-embrace-boredom</id>
         <link href="https://aaditkamat.github.io/blog/learning-to-embrace-boredom"/>
         <updated>2021-07-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I'll be the first to admit, I have a lot of work to do to improve my relationship with boredom. I don't necessarily think that boredom is something that must be avoided at all costs, but it does make me uncomfortable. It lulls me into the false trap of thinking that I'm not being productive.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unsubscribe from all (ok, maybe most) email newsletters]]></title>
+        <id>unsubscribe-from-all-email-newsletters</id>
+        <link href="https://aaditkamat.github.io/blog/unsubscribe-from-all-email-newsletters"/>
+        <updated>2021-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As of late, I have found myself unsubscribing from a lot of email newsletters. While some such as the Morning Brew are important for me to catch up with the news for the day, others just don't provide me as much value as I had expected when I first signed up for them. I am particularly annoyed by the newsletters that I get from different companies informing me about their latest events or products and services starting to get a little annoying. Yes Apple, I'm talking about all those emails you have sent me for the 1-year Apple TV+ subscription or the 6 months free Apple Music subscription that I absolutely do not need at this point.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Is Overpopulation really a major crisis?]]></title>
