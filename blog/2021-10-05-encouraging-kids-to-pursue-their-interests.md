@@ -5,7 +5,7 @@ author: Aadit Kamat
 author_title: QA Engineer @ Shopee
 author_url: https://github.com/aaditkamat
 author_image_url: https://avatars.githubusercontent.com/u/30969577?s=400&u=9558fc3557d79c88a7080034fe8c22654aca2e4d&v=4
-tags: [life]
+tags: [life, career]
 ---
 
 Kids usually have no idea about what they wish to pursue as a career growing up. That's ok, because at the stage of life they are in, they have insufficient data to make the decision.
