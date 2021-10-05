@@ -4,9 +4,16 @@
         <title>Aadit Kamat Blog</title>
         <link>https://aaditkamat.github.io/blog</link>
         <description>Aadit Kamat Blog</description>
-        <lastBuildDate>Thu, 30 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Creativity leads to happiness]]></title>
+            <link>https://aaditkamat.github.io/blog/creativity-leads-to-happiness</link>
+            <guid>creativity-leads-to-happiness</guid>
+            <pubDate>Tue, 05 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[In my previous blog post, I had discussed about how happiness is a measure of success.]]></description>
+        </item>
         <item>
             <title><![CDATA[Creativity leads to happiness]]></title>
             <link>https://aaditkamat.github.io/blog/creativity-leads-to-happiness</link>

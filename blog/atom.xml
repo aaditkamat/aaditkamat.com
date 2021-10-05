@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaditkamat.github.io/blog</id>
     <title>Aadit Kamat Blog</title>
-    <updated>2021-09-30T00:00:00.000Z</updated>
+    <updated>2021-10-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaditkamat.github.io/blog"/>
     <subtitle>Aadit Kamat Blog</subtitle>
     <icon>https://aaditkamat.github.io/img/profile.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[Creativity leads to happiness]]></title>
+        <id>creativity-leads-to-happiness</id>
+        <link href="https://aaditkamat.github.io/blog/creativity-leads-to-happiness"/>
+        <updated>2021-10-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In my previous blog post, I had discussed about how happiness is a measure of success.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creativity leads to happiness]]></title>
         <id>creativity-leads-to-happiness</id>
