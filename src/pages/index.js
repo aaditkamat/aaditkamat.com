@@ -20,6 +20,7 @@ export default function Home() {
               <a href="https://twitter.com/aaditkamat"><SiTwitter className={styles.icon} /></a>
               <a href="https://github.com/aaditkamat"><SiGithub className={styles.icon} /></a>
               <a href="https://medium.com/aaditkamat"><SiMedium className={styles.icon} /></a>
+              <a href="https://devpost.com/aaditkamat"><img src="../../static/img/devpost.svg" alt="Devpost icon" className={styles.icon} /></a>
             </div>
             
           </div>
