@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaditkamat.github.io/blog</id>
     <title>Aadit Kamat Blog</title>
-    <updated>2021-10-10T00:00:00.000Z</updated>
+    <updated>2021-10-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaditkamat.github.io/blog"/>
     <subtitle>Aadit Kamat Blog</subtitle>
     <icon>https://aaditkamat.github.io/img/profile.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[My takeways from Chankya in Daily Life]]></title>
+        <id>my-takeaways-from-chanakya-in-daily-life</id>
+        <link href="https://aaditkamat.github.io/blog/my-takeaways-from-chanakya-in-daily-life"/>
+        <updated>2021-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Just before writing this, I was leafing through some chapters]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My thoughts on the Matrix]]></title>
         <id>my-thoughts-on-the-matrix</id>

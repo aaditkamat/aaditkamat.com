@@ -4,9 +4,16 @@
         <title>Aadit Kamat Blog</title>
         <link>https://aaditkamat.github.io/blog</link>
         <description>Aadit Kamat Blog</description>
-        <lastBuildDate>Sun, 10 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My takeways from Chankya in Daily Life]]></title>
+            <link>https://aaditkamat.github.io/blog/my-takeaways-from-chanakya-in-daily-life</link>
+            <guid>my-takeaways-from-chanakya-in-daily-life</guid>
+            <pubDate>Sat, 16 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Just before writing this, I was leafing through some chapters]]></description>
+        </item>
         <item>
             <title><![CDATA[My thoughts on the Matrix]]></title>
             <link>https://aaditkamat.github.io/blog/my-thoughts-on-the-matrix</link>
