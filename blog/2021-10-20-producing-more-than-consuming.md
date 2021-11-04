@@ -1,6 +1,6 @@
 ---
 slug: producing-more-than-consuming
-title: Producing, more than consuming
+title: Producing more than consuming
 author: Aadit Kamat
 author_title: QA Engineer @ Shopee
 author_url: https://github.com/aaditkamat
