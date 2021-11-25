@@ -9,6 +9,11 @@ title: Projects
 - Tech stack: Node.js, Express, jQuery <br />
 [See live](https://planitright.herokuapp.com) &nbsp; &nbsp; [Source Code](https://github.com/aaditkamat/plan-it-right)
 
+### Bollywood Hangman
+- The Bollywood version of the awesome [Hollywood Hangman](https://hollywoodhangman.com/)
+- Tech Stack: React, Python
+[See live](https://aaditkamat.github.io/bollywood-hangman) &nbsp; &nbsp; [Source Code](https://github.com/aaditkamat/bollywood-hangman)
+
 ### Job Matcher
 - A web application that matches your professional profile to online job listings and recommends the top matching jobs
 - Tech Stack: React and Flask <br />
