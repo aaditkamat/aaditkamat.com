@@ -11,7 +11,7 @@ title: Projects
 
 ### Bollywood Hangman
 - The Bollywood version of the awesome [Hollywood Hangman](https://hollywoodhangman.com/)
-- Tech Stack: React, Python
+- Tech Stack: React, Python <br />
 [See live](https://aaditkamat.github.io/bollywood-hangman) &nbsp; &nbsp; [Source Code](https://github.com/aaditkamat/bollywood-hangman)
 
 ### Job Matcher
