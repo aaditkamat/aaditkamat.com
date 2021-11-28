@@ -14,7 +14,7 @@ export default function AboutMe() {
             <div className="row">
               <div className="cul-md-6 cul-sm-12">
                 <img
-                  src="img/profile.jpg"
+                  src="/img/profile.jpg"
                   className={styles.roundedCircle}
                   style={{ height: '350px', width: '350px' }}
                 />
