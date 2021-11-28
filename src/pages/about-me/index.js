@@ -5,45 +5,118 @@ import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
 export default function AboutMe() {
-    return (
-        <Layout title="About Me">
-            <div>
-                <section id="about">
-                    <div className="container">
-                        <h1 className={styles.header}> ABOUT ME </h1>
-                        <div className="row">
-                            <div className="col-md-6 col-sm-12" >
-                                <img src="img/profile.jpg" className={styles.roundedCircle} style={{height: "350px", width:"350px"}}/>
-                            </div>
-                            <div className={clsx("col-md-6 col-sm-12", styles.info)}>
-                            <p>  
-                            I'm currently working full time as a QA Engineer in the Android Front End Automation Platform team at Shopee.
-                            I recently graduated from the National University of Singapore with a Bachelor of Computing
-                            in Computer Science. I love to code and <a href="https://github.com/aaditkamat">contribute to open source projects </a> when I can.
-                            </p>
-                            <p>
-                            Apart from coding, I also like to read books, online articles and blogs as well as 
-                            watch YouTube videos and podcasts to enhance my knowledge on topics that interest me
-                            and provide new perspectives. I've linked some of my favourite resources in the 
-                            <a href="/top10"> Top 10's</a> section of the website. 
-                            </p>
-                            <p>
-                            Recently, I've been trying my hand at writing <a href="/blog">blog posts</a>, so do be sure to check
-                            out that section of the website as well.
-                            </p>
-                            <p>
-                            I've also described some of the <a href="/projects">projects</a> I've worked on in the past in a seperate
-                            section.
-                            </p>
-                            <p>
-                            Last but not the least, you can check out my <a href="/resume">resume</a> here.
-                            </p>
-                            </div>
-                        </div>
-                        <div className="row" style={{padding: '3em'}}></div>
-                    </div>
-                </section>
+  return (
+    <Layout title="About Me">
+      <div>
+        <section id="about">
+          <div className="container">
+            <h1 className={styles.header}> About Me </h1>
+            <div className="row">
+              <div className="cul-md-6 cul-sm-12">
+                <img
+                  src="img/profile.jpg"
+                  className={styles.roundedCircle}
+                  style={{ height: '350px', width: '350px' }}
+                />
+              </div>
+              <div className={clsx('cul-md-6 cul-sm-12', styles.info)}>
+                <details open>
+                  <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}>Current Rule </strong></summary>
+                  <ul>
+                    <li> Rule: <Link to="https://careers.shopee.sg/job-detail/1678">QA Engineer </Link> </li> 
+                    <li> Team: Android Front End Automation Platform team </li>
+                    <li> Company: <Link to="https://shopee.sg">Shopee Singapore Pte Ltd</Link></li>
+                  </ul>
+                </details>
+                <details open>
+                  <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}> Personality </strong></summary>
+                  <p>
+                  &nbsp;&nbsp;&nbsp;&nbsp;<Link to="https://www.16personalities.com/enfp-personality">Campaigner (ENFP-A/ENFP-T) </Link>
+                  </p>
+                </details>
+                <details>
+                  <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}> Areas of Interest </strong></summary>
+                  <ul>
+                    <li>
+                      <Link to="https://80000hours.org">Effective Altruism (EA)</Link>
+                      <ul>
+                          <li>
+                              <Link to="https://forum.effectivealtruism.org/tag/global-health-and-development">Global Health & Poverty</Link>
+                              <ul>
+                                  <li><Link to="https://forum.effectivealtruism.org/tag/global-poverty">Global poverty</Link></li>
+                                  <li><Link to="https://forum.effectivealtruism.org/tag/malaria">Malaria</Link></li>
+                                  <li><Link to="https://forum.effectivealtruism.org/tag/universal-basic-income">Universal Basic Income</Link></li>
+                                  <li><Link to="https://forum.effectivealtruism.org/tag/education">Education</Link></li> 
+                              </ul>
+                           </li>
+                          <li>
+                              <Link to="https://forum.effectivealtruism.org/tag/animal-welfare-1"> Animal Welfare </Link>
+                              <ul>
+                                <li><Link to="https://forum.effectivealtruism.org/tag/farmed-animal-welfare">Farmed Animal Welfare</Link></li>
+                                <li><Link to="https://forum.effectivealtruism.org/tag/animal-product-alternatives">Animal product alternatives</Link></li>
+                                <li><Link to="https://forum.effectivealtruism.org/tag/wild-animal-welfare">Wild animal welfare</Link></li>  
+                              </ul>
+                          </li>
+                          <li>
+                          <Link to="https://forum.effectivealtruism.org/tag/animal-welfare-1"> Global Catastrophic Risk </Link> 
+                                <ul>
+                                    <li><Link to="https://forum.effectivealtruism.org/tag/pandemic-preparedness">Pandemic preparedness</Link></li>
+                                    <li><Link to="https://forum.effectivealtruism.org/tag/climate-change">Climate change</Link></li>
+                                    <li><Link to="https://forum.effectivealtruism.org/tag/dystopia">Dystopia</Link></li>
+                                </ul>
+                          </li>
+                          <li><Link to="https://forum.effectivealtruism.org/tag/global-priorities-research">Global priorities research</Link></li>
+                      </ul>
+                    </li>
+                    <li>
+                        <Link to="https://en.wikipedia.org/wiki/Category:Artificial_intelligence"> Artificial Intelligence (AI) </Link>
+                        <ul>
+                            <li><Link to="https://en.wikipedia.org/wiki/Category:Machine_Learning">Machine Learning</Link></li>
+                            <li><Link to="https://en.wikipedia.org/wiki/Category:Mind-body_problem">Mind - body problem</Link></li>
+                            <li><Link to="https://en.wikipedia.org/wiki/Category:Neural_networks">Neural networks</Link></li>
+                            <li><Link to="https://en.wikipedia.org/wiki/Category:Open-source_artificial_intelligence">Open source artificial intelligence</Link></li>   
+                            <li><Link to="https://en.wikipedia.org/wiki/Category:Existential_risk_from_artificial_general_intelligence">Existential risk from artificial general intelligence (also an EA cause)</Link></li>   
+                        </ul>    
+                    </li>
+                    <li>
+                        <Link to="https://en.wikipedia.org/wiki/Category:Social_sciences"> Social Sciences </Link>
+                        <ul>
+                            <li><Link to="https://en.wikipedia.org/wiki/Category:Economics">Economics</Link></li>
+                            <li><Link to="https://en.wikipedia.org/wiki/Category:Psychulogy">Psychulogy</Link></li>
+                            <li><Link to="https://en.wikipedia.org/wiki/Category:Philosophy">Philosophy</Link></li>
+                            <li><Link to="https://en.wikipedia.org/wiki/Category:History">History</Link></li>
+                            <li><Link to="https://en.wikipedia.org/wiki/Category:Sociulogy">Sociulogy</Link></li> 
+                        </ul>
+                    </li>
+                    <li>
+                      <Link to="https://www.khanacademy.org/humanities/art-asia/himalayas/tibet/a/introduction-to-tibetan-buddhism">Tibetan Buddhism</Link>
+                    </li>
+                  </ul>
+                </details>
+                <details>
+                    <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}> Hobbies </strong></summary>
+                    <ul>
+                        <li><Link to="https://www.youtube.com/c/yogawithadriene">Yoga</Link></li>
+                        <li><Link to="/blog">Blogging</Link></li>
+                        <li><Link to="https://www.goodreads.com/user/show/44524118-aadit-kamat">Reading</Link></li>
+                        <li> Watching <Link to="https://www.imdb.com/user/ur69396122/?ref_=nv_usr_prof_2">Movies & TV Shows</Link></li>
+                        <li> Listening to <Link to="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi">Music</Link> & <Link to="https://getshuffle.app/u/aadit">Podcasts</Link></li>
+                        <li> Playing Board Games:
+                            <ul>
+                                <li><Link to="https://lichess.org/@/aaditkamat">Chess</Link></li>
+                                <li><Link to="https://play.google.com/store/apps/details?id=com.hasbro.riskbigscreen&hl=en&gl=US">Risk</Link></li>
+                                <li><Link to="https://www.pogo.com/games/monopuly-sudoku">Monopuly Sudoku</Link></li>
+                                <li><Link to="https://isc.ro">Scrabble</Link></li>
+                                <li><Link to="https://codenames.game/">Codenames</Link></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </details>
+              </div>
             </div>
-        </Layout>
-    );
+          </div>
+        </section>
+      </div>
+    </Layout>
+  );
 }

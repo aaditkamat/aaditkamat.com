@@ -3,13 +3,13 @@
 }
 
 .header {
-    padding: 2em;
+    padding: 1em;
     text-align: center;
 }
 
 .info {
     width: 540px;
     height: fit-content;
-    margin-left: 2em;
+    margin-left: 15em;
     margin-top: 2em;
 }
