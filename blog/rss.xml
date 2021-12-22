@@ -4,9 +4,16 @@
         <title>Aadit Kamat Blog</title>
         <link>https://aaditkamat.github.io/blog</link>
         <description>Aadit Kamat Blog</description>
-        <lastBuildDate>Thu, 04 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Intersubjective realities]]></title>
+            <link>https://aaditkamat.github.io/blog/intersubjective-realities</link>
+            <guid>intersubjective-realities</guid>
+            <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[In Homo Deus, Yuval Noah Harari decodes one of the major reasons that humans have been able to "rule the world" - the ability to cooperate flexibly in large numbers, forming communities that believe in shared intersubjective realities.]]></description>
+        </item>
         <item>
             <title><![CDATA[The Group Effect]]></title>
             <link>https://aaditkamat.github.io/blog/the-group-effect</link>
