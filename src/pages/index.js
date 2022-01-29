@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import styles from './index.module.css';
-import { SiLinkedin, SiQuora, SiTwitter, SiGithub, SiMedium} from 'react-icons/si'
+import { SiLinkedin, SiQuora, SiTwitter, SiGithub, SiMedium, SiFacebook, SiInstagram } from 'react-icons/si'
 
 export default function Home() {
   return (
@@ -16,13 +16,14 @@ export default function Home() {
               You can also find me on:
               <br /> <br/>
               <a href="https://linkedin.com/in/aaditkamat"><SiLinkedin className={styles.icon}/></a>
-              <a href="https://quora.com/profile/Aadit-Kamat"><SiQuora className={styles.icon}/></a>
-              <a href="https://twitter.com/aaditkamat"><SiTwitter className={styles.icon} /></a>
               <a href="https://github.com/aaditkamat"><SiGithub className={styles.icon} /></a>
-              <a href="https://medium.com/aaditkamat"><SiMedium className={styles.icon} /></a>
               <a href="https://devpost.com/aaditkamat"><img src="img/devpost.svg" alt="Devpost icon" className={styles.icon} /></a>
+              <a href="https://quora.com/profile/Aadit-Kamat"><SiQuora className={styles.icon}/></a>
+              <a href="https://medium.com/aaditkamat"><SiMedium className={styles.icon} /></a>
+              <a href="https://twitter.com/aaditkamat"><SiTwitter className={styles.icon} /></a>
+              <a href="https://instagram.com/aadit_kamat"><SiInstagram className={styles.icon} /></a>
+              <a href="https://www.facebook.com/AaditKam"><SiFacebook className={styles.icon} /></a>
             </div>
-            
           </div>
         </section>
     </Layout>
