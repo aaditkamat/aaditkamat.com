@@ -25,6 +25,9 @@
     "react-icons": "4.3.1",
     "url-loader": "4.1.1"
   },
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  },
   "browserslist": {
     "production": [
       ">0.5%",
