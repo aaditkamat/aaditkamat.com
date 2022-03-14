@@ -1,5 +1,5 @@
 ---
-slug: so-good-they-can't-ignore-you-a-review
+slug: so-good-they-cant-ignore-you-a-review
 title: So Good They Can't Ignore You - A Book Review
 author: Aadit Kamat
 author_title: QA Engineer @ Shopee

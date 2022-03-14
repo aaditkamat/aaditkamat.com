@@ -1,5 +1,5 @@
 ---
-slug: it's-ok-to-forget
+slug: its-ok-to-forget
 title: It's Ok To Forget
 author: Aadit Kamat
 author_title: QA Engineer @ Shopee
