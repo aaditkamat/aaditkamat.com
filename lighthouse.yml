@@ -1,0 +1,20 @@
+name: Lighthouse
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [develop, master]
+  pull_request:
+    branches: [develop, master]
+  schedule:
+    - cron: '0 * * * *'
+    
+jobs:
+  lighthouse:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Lighthouse
+      uses: foo-software/lighthouse-check-action@master
+      with:
+        urls: 'http://aaditkamat.com'
