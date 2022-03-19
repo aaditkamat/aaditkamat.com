@@ -1,8 +1,8 @@
 ---
-slug: so-good-they-can't-ignore-you-a-review
+slug: so-good-they-cant-ignore-you-a-review
 title: So Good They Can't Ignore You - A Book Review
 author: Aadit Kamat
-author_title: QA Engineer @ Shopee
+author_title: Software Engineer @ Visa Singapore. Opinions are my own and not the views of my employer.
 author_url: https://github.com/aaditkamat
 author_image_url: https://avatars.githubusercontent.com/u/30969577?s=400&u=9558fc3557d79c88a7080034fe8c22654aca2e4d&v=4
 tags: [books]

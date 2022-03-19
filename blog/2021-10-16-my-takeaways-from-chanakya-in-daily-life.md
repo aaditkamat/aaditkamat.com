@@ -2,7 +2,7 @@
 slug: my-takeaways-from-chanakya-in-daily-life
 title: My takeways from Chankya in Daily Life
 author: Aadit Kamat
-author_title: QA Engineer @ Shopee
+author_title: Software Engineer @ Visa Singapore. Opinions are my own and not the views of my employer.
 author_url: https://github.com/aaditkamat
 author_image_url: https://avatars.githubusercontent.com/u/30969577?s=400&u=9558fc3557d79c88a7080034fe8c22654aca2e4d&v=4
 tags: [life, books]

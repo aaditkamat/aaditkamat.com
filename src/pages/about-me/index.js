@@ -21,11 +21,11 @@ export default function AboutMe() {
               </div>
               <div className={clsx('cul-md-6 cul-sm-12', styles.info)}>
                 <details open>
-                  <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}>Current Rule </strong></summary>
+                  <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}>Current Role </strong></summary>
                   <ul>
-                    <li> Rule: <Link to="https://careers.shopee.sg/job-detail/1678">QA Engineer </Link> </li> 
-                    <li> Team: Android Front End Automation Platform team </li>
-                    <li> Company: <Link to="https://shopee.sg">Shopee Singapore Pte Ltd</Link></li>
+                    <li> Position: <Link to="https://drive.google.com/file/d/183zIAkNqIhqcbPL6DBbIA_Of8bc0woH1/view?usp=sharing">Software Engineer</Link> </li> 
+                    <li><Link t0="https://www.visa.com.sg/visa-everywhere/innovation-centers/singapore.html">Team: Innovation Center & Regional Solutions Singapore</Link></li>
+                    <li> Company: <Link to="https://visa.com.sg">Visa Inc. </Link></li>
                   </ul>
                 </details>
                 <details open>
