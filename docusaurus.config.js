@@ -1,14 +1,14 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Aadit Kamat',
-  tagline: 'QA Engineer at Shopee',
-  url: 'https://aaditkamat.github.io',
+  tagline: 'Software Engineer at Visa Singapore. Opinions are my own and not the views of my employer ',
+  url: 'https://aaditkamat.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/profile.jpg',
   organizationName: 'aaditkamat', // Usually your GitHub org/user name.
-  projectName: 'aaditkamat.github.io', // Usually your repo name.
+  projectName: 'aaditkamat.com', // Usually your repo name.
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
