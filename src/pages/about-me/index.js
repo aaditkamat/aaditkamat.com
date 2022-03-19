@@ -23,9 +23,9 @@ export default function AboutMe() {
                 <details open>
                   <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}>Current Rule </strong></summary>
                   <ul>
-                    <li> Rule: <Link to="https://careers.shopee.sg/job-detail/1678">QA Engineer </Link> </li> 
-                    <li> Team: Android Front End Automation Platform team </li>
-                    <li> Company: <Link to="https://shopee.sg">Shopee Singapore Pte Ltd</Link></li>
+                    <li> Role: <Link to="https://drive.google.com/file/d/183zIAkNqIhqcbPL6DBbIA_Of8bc0woH1/view?usp=sharing">Software Engineer</Link> </li> 
+                    <li> Team: Innovation Center & Regional Solutions Singapore</li>
+                    <li> Company: <Link to="https://shopee.sg">Visa Inc. </Link></li>
                   </ul>
                 </details>
                 <details open>
