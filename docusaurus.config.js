@@ -60,9 +60,8 @@ module.exports = {
             type: 'all',
             copyright: `Copyright © ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`
           }, 
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/aaditkamat/aaditkamat',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
