@@ -56,6 +56,10 @@ module.exports = {
       {
         blog: {
           showReadingTime: true,
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`
+          }, 
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
