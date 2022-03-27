@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[7429],{9494:function(a){a.exports=JSON.parse('{"permalink":"/blog/page/4","page":4,"postsPerPage":10,"totalPages":5,"totalCount":48,"previousPage":"/blog/page/3","nextPage":"/blog/page/5","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[390],{935:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"meditation","count":1,"permalink":"/blog/tags/meditation"}')}}]);
