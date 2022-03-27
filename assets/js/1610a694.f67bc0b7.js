@@ -1,1 +1,0 @@
-(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[8989],{9165:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"covid-19","name":"covid-19","count":1,"permalink":"/blog/tags/covid-19"}')}}]);

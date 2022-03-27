@@ -1,1 +1,0 @@
-(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[871],{3773:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"sports","name":"sports","count":1,"permalink":"/blog/tags/sports"}')}}]);

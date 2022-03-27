@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[3511],{3568:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"vaccines","count":1,"permalink":"/blog/tags/vaccines"}')}}]);

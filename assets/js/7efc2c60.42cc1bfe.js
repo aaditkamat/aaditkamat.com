@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[2281],{5714:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"college","count":2,"permalink":"/blog/tags/college"}')}}]);

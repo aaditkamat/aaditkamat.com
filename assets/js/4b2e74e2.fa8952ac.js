@@ -1,1 +1,0 @@
-(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[692],{8750:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"philosophy","name":"philosophy","count":2,"permalink":"/blog/tags/philosophy"}')}}]);

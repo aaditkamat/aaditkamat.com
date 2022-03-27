@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[6754],{3080:function(t){t.exports=JSON.parse('{"permalink":"/blog/tags/philosophy","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
