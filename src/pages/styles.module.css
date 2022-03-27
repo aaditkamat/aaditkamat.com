@@ -4,10 +4,9 @@
 }
 
 .heroTitle {
-  font-size: 40px;
-  font-weight: 700;
-  margin-bottom: 3.2rem;
   text-align: center;
+  position: relative;
+  overflow: hidden;
 }
 
 .icon {
