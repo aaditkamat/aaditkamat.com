@@ -20,11 +20,3 @@
   margin-top: 3.2rem;
   margin-bottom: 3.2rem;
 }
-
-a {
-  color: inherit;
-}
-
-a:hover {
-  color: var(--ifm-link-color);
-}
