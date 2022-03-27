@@ -24,7 +24,7 @@ export default function AboutMe() {
                   <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}>Current Role </strong></summary>
                   <ul>
                     <li> Position: <Link to="https://drive.google.com/file/d/183zIAkNqIhqcbPL6DBbIA_Of8bc0woH1/view?usp=sharing">Software Engineer</Link> </li> 
-                    <li><Link t0="https://www.visa.com.sg/visa-everywhere/innovation-centers/singapore.html">Team: Innovation Center & Regional Solutions Singapore</Link></li>
+                    <li> Team: <Link t0="https://www.visa.com.sg/visa-everywhere/innovation-centers/singapore.html">Innovation Center & Regional Solutions Singapore</Link></li>
                     <li> Company: <Link to="https://visa.com.sg">Visa Inc. </Link></li>
                   </ul>
                 </details>
@@ -38,10 +38,10 @@ export default function AboutMe() {
                   <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}> Areas of Interest </strong></summary>
                   <ul>
                     <li>
-                      <Link to="https://80000hours.org">Effective Altruism (EA)</Link>
+                      Effective Altruism (EA)
                       <ul>
                           <li>
-                              <Link to="https://forum.effectivealtruism.org/tag/global-health-and-development">Global Health & Poverty</Link>
+                              Global Health & Poverty
                               <ul>
                                   <li><Link to="https://forum.effectivealtruism.org/tag/global-poverty">Global poverty</Link></li>
                                   <li><Link to="https://forum.effectivealtruism.org/tag/malaria">Malaria</Link></li>
@@ -50,7 +50,7 @@ export default function AboutMe() {
                               </ul>
                            </li>
                           <li>
-                              <Link to="https://forum.effectivealtruism.org/tag/animal-welfare-1"> Animal Welfare </Link>
+                              Animal Welfare
                               <ul>
                                 <li><Link to="https://forum.effectivealtruism.org/tag/farmed-animal-welfare">Farmed Animal Welfare</Link></li>
                                 <li><Link to="https://forum.effectivealtruism.org/tag/animal-product-alternatives">Animal product alternatives</Link></li>
@@ -58,7 +58,7 @@ export default function AboutMe() {
                               </ul>
                           </li>
                           <li>
-                          <Link to="https://forum.effectivealtruism.org/tag/animal-welfare-1"> Global Catastrophic Risk </Link> 
+                          Global Catastrophic Risk
                                 <ul>
                                     <li><Link to="https://forum.effectivealtruism.org/tag/pandemic-preparedness">Pandemic preparedness</Link></li>
                                     <li><Link to="https://forum.effectivealtruism.org/tag/climate-change">Climate change</Link></li>
@@ -69,7 +69,6 @@ export default function AboutMe() {
                       </ul>
                     </li>
                     <li>
-                        <Link to="https://en.wikipedia.org/wiki/Category:Artificial_intelligence"> Artificial Intelligence (AI) </Link>
                         <ul>
                             <li><Link to="https://en.wikipedia.org/wiki/Category:Machine_Learning">Machine Learning</Link></li>
                             <li><Link to="https://en.wikipedia.org/wiki/Category:Mind-body_problem">Mind - body problem</Link></li>
@@ -79,7 +78,7 @@ export default function AboutMe() {
                         </ul>    
                     </li>
                     <li>
-                        <Link to="https://en.wikipedia.org/wiki/Category:Social_sciences"> Social Sciences </Link>
+                        Social Sciences
                         <ul>
                             <li><Link to="https://en.wikipedia.org/wiki/Category:Economics">Economics</Link></li>
                             <li><Link to="https://en.wikipedia.org/wiki/Category:Psychulogy">Psychulogy</Link></li>
@@ -99,9 +98,9 @@ export default function AboutMe() {
                         <li><Link to="https://www.youtube.com/c/yogawithadriene">Yoga</Link></li>
                         <li><Link to="/blog">Blogging</Link></li>
                         <li><Link to="https://www.goodreads.com/user/show/44524118-aadit-kamat">Reading</Link></li>
-                        <li> Watching <Link to="https://www.imdb.com/user/ur69396122/?ref_=nv_usr_prof_2">Movies & TV Shows</Link></li>
-                        <li> Listening to <Link to="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi">Music</Link> & <Link to="https://getshuffle.app/u/aadit">Podcasts</Link></li>
-                        <li> Playing Board Games:
+                        <li><Link to="https://www.imdb.com/user/ur69396122/?ref_=nv_usr_prof_2">Movies & TV Shows</Link></li>
+                        <li> <Link to="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi">Music</Link> & <Link to="/top10"> Podcasts</Link></li>
+                        <li> Board Games:
                             <ul>
                                 <li><Link to="https://lichess.org/@/aaditkamat">Chess</Link></li>
                                 <li><Link to="https://play.google.com/store/apps/details?id=com.hasbro.riskbigscreen&hl=en&gl=US">Risk</Link></li>
