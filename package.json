@@ -21,7 +21,7 @@
     "react-dom": "18.0.0"
   },
   "devDependencies": {
-    "cypress": "9.5.2"
+    "cypress": "9.5.3"
   },
   "browserslist": {
     "production": [
