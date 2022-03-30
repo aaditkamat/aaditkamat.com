@@ -1,4 +1,4 @@
-name: axe
+name: Axe DevTools
 on:
   push:
     branches: [ develop, master ]
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout 🛎️
-        uses: actions/checkout@v3
+      uses: actions/checkout@v3
     
     - run: yarn
     - run: yarn start & yarn wait-on http://localhost:3000
