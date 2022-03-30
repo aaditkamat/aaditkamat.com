@@ -1,0 +1,20 @@
+name: axe
+on:
+  push:
+    branches: [ develop, master ]
+  pull_request:
+    branches: [ develop, master ]
+  schedule:
+    - cron: '0 * * * *'
+jobs:
+  axe:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout 🛎️
+        uses: actions/checkout@v3
+    
+    - run: yarn
+    - run: yarn start & yarn wait-on http://localhost:3000
+    - name: Run axe
+      run: |
+        yarn axe http://localhost:3000, http://localhost:3000/about-me, http://localhost:3000/resume, http://localhost:3000/top10, http://localhost:3000/blog, http://localhost:3000/projects --exit
