@@ -28,6 +28,11 @@ module.exports = {
           position: 'right'
         },
         {
+          to: '/calendar',
+          label: 'Calendar',
+          position: 'right'
+        },
+        {
           to: '/top10',
           label: 'Top 10\'s',
           position: 'right'
