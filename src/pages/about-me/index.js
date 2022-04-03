@@ -7,7 +7,6 @@ import styles from './styles.module.css';
 export default function AboutMe() {
   return (
     <Layout title="About Me">
-      <div>
         <section id="about">
           <div className="container">
             <h1 className={styles.header}> About Me </h1>
@@ -23,8 +22,8 @@ export default function AboutMe() {
                 <details open>
                   <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}>Current Role </strong></summary>
                   <ul>
-                    <li> Position: <Link to="https://drive.google.com/file/d/183zIAkNqIhqcbPL6DBbIA_Of8bc0woH1/view?usp=sharing">Software Engineer</Link> </li> 
-                    <li> Team: <Link t0="https://www.visa.com.sg/visa-everywhere/innovation-centers/singapore.html">Innovation Center & Regional Solutions Singapore</Link></li>
+                    <li> Position: <Link to="https://drive.google.com/file/d/183zIAkNqIhqcbPL6DBbIA_Of8bc0woH1/view?usp=sharing">Software Engineer (Contract) </Link> </li> 
+                    <li> Team: <Link to="https://www.visa.com.sg/visa-everywhere/innovation-centers/singapore.html">Innovation Center & Regional Solutions Singapore</Link></li>
                     <li> Company: <Link to="https://visa.com.sg">Visa Inc. </Link></li>
                   </ul>
                 </details>
@@ -115,7 +114,6 @@ export default function AboutMe() {
             </div>
           </div>
         </section>
-      </div>
     </Layout>
   );
 }
