@@ -24,7 +24,7 @@ module.exports = {
         },
         {
           to: '/resume',
-          label: 'Resume',
+          label: 'Résumé',
           position: 'right'
         },
         {
