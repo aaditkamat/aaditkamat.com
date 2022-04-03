@@ -137,7 +137,7 @@
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.0"
 
-"@axe-core/cli@^4.4.2":
+"@axe-core/cli@4.4.2":
   version "4.4.2"
   resolved "https://registry.yarnpkg.com/@axe-core/cli/-/cli-4.4.2.tgz#5fd6c7d52d52947f9aa6375c3566d7d8c625c68c"
   integrity sha512-WlrWKvInyAjF6faCGfnYM7aLNFNXHA5DCXItIaaJLJs3n9l3qRzOKAiKAzDAscJ+SR12aiPkRQS2ua+1Y2Im2A==
