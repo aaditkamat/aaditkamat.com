@@ -68,6 +68,10 @@ module.exports = {
           editUrl:
             'https://github.com/aaditkamat/aaditkamat',
         },
+        gtag: {
+          trackingID: '3383267694',
+          anonymizeIP: true,
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
