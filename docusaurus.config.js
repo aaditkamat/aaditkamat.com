@@ -69,7 +69,7 @@ module.exports = {
             'https://github.com/aaditkamat/aaditkamat',
         },
         gtag: {
-          trackingID: '3383291131',
+          trackingID: '3383267694',
           anonymizeIP: true,
         },
         theme: {
