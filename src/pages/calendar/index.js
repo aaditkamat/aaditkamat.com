@@ -1,14 +1,16 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import Head from '@docusaurus/Head';
+import BrowserOnly from '@docusaurus/BrowserOnly';
 import styles from './styles.module.css';
 
 export default function Calendar() {
   return (
     <Layout title="Calendar">
-      <Head>
-        <script type="text/javascript">
-          {`window.onload = function() {
+      <BrowserOnly> 
+      {
+       () => <script type="text/javascript">
+          window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'https://calendly.com/aadit-kamat',
                 text: 'Schedule time with me',
@@ -16,10 +18,10 @@ export default function Calendar() {
                 textColor: '#ffffff',
                 branding: true,
               })
-            }`
           }
-        </script>
-      </Head>
+          </script>
+       } 
+      </BrowserOnly>
       <section id="calendar">
         <div className="container">
           <h1 className={styles.header}> Calendar </h1>
@@ -36,7 +38,6 @@ export default function Calendar() {
             </div>
           </div>
         </div>
-        <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet" />
       </section>
     </Layout>
   );
