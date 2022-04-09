@@ -9,6 +9,15 @@ module.exports = {
   favicon: 'img/profile.jpg',
   organizationName: 'aaditkamat', // Usually your GitHub org/user name.
   projectName: 'aaditkamat.com', // Usually your repo name.
+  stylesheets: [
+    'https://assets.calendly.com/assets/external/widget.css'
+  ],
+  scripts: [
+    {
+      src: 'https://assets.calendly.com/assets/external/widget.js',
+      async: true
+    }
+  ],
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
