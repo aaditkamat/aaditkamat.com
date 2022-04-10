@@ -98,7 +98,7 @@ export default function AboutMe() {
                         <li><Link to="/blog">Blogging</Link></li>
                         <li><Link to="https://www.goodreads.com/user/show/44524118-aadit-kamat">Reading</Link></li>
                         <li><Link to="https://www.imdb.com/user/ur69396122/?ref_=nv_usr_prof_2">Movies & TV Shows</Link></li>
-                        <li> <Link to="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi">Music</Link> & <Link to="/top10"> Podcasts</Link></li>
+                        <li> <Link to="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi">Music</Link> & <Link to="/podcasts"> Podcasts</Link></li>
                         <li> Board Games:
                             <ul>
                                 <li><Link to="https://lichess.org/@/aaditkamat">Chess</Link></li>
