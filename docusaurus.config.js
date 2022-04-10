@@ -42,8 +42,13 @@ module.exports = {
           position: 'right'
         },
         {
-          to: '/top10',
-          label: 'Top 10\'s',
+          to: '/bookmarks',
+          label: 'Bookmarks',
+          position: 'right'
+        },
+        {
+          to: '/podcasts',
+          label: 'Podcasts',
           position: 'right'
         },
         {
