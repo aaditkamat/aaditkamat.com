@@ -279,6 +279,7 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
         <li><a href="https://twofactorauth.org/">Two Factor Auth List</a></li>
     </details>
     <li><a href="https://techieweed.com/">Techieweed - Get High on Technology</a></li>
+    <li><a href="https://top10vpn.com">Top 10 VPN: VPN Reviews You Can Trust</a></li>
     <li><a href="https://www.producthunt.com/">Product Hunt – The best new products in tech.</a></li>
     <li><a href="http://detexify.kirelabs.org/classify.html">Detexify LaTeX handwritten symbol recognition</a></li>
     <li><a href="https://www.weweb.io/?ref=producthunt">WeWeb | The New Standard in Website Creation</a></li>
