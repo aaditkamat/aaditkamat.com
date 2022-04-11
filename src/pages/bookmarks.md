@@ -21,14 +21,13 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
     <summary>Books</summary>
     <li><a href="https://press.stripe.com/">Stripe Press — Ideas for progress | Singapore</a></li>
     <li><a href="https://libert.glitch.me/">Libert</a></li>
+    <li><a href="https://bookbub.com">BookBub</a></li>
     <li><a href="https://wwnorton.com/">Home Page | W. W. Norton &amp; Company</a></li>
     <li><a href="https://fivebooks.com/">Five Books | The Best Books Recommended by Leading Experts</a></li>
 </details>
 
 <details>
     <summary>COVID-19</summary>
-    <li><a href="https://www.iwmbuzz.com/music/snippets-music/10-saddest-arijit-singhs-songs-soothe-heart/2020/03/31">10 Saddest Arijit Singh&amp;#39;s Songs to soothe your heart | IWMBuzz</a></li>
-    <li><a href="https://www.businessinsider.com/coronavirus-how-to-make-hand-sanitizer-and-cleaning-wipes-2020-3?utm_campaign=sf-bi-ti&utm_source=facebook.com&utm_medium=social&fbclid=IwAR33b6j8f3F_F_Q7UfF-zWe7MT8tlQ1inxofEx43tupgFeIW8WAbG4qOcKE">Coronavirus: How to make your own hand sanitizer and cleaning wipes - Business Insider</a></li>
     <li><a href="https://trekhleb.github.io/covid-19/">COVID-19 Dashboard</a></li>
     <li><a href="https://sgcovidcheck.com/">https://sgcovidcheck.com</a></li>
     <li><a href="https://www.moh.gov.sg/covid-19">MOH | Updates on COVID-19 (Coronavirus Disease 2019) Local Situation</a></li>
@@ -62,32 +61,40 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
         <li><a href="https://logic-text.eu/index.html">Formal Logic</a></li>
         <li><a href="https://app.growthmentor.com/search">GrowthMentor</a></li>
     </details>
-</details>
-
-<details>
-    <summary>University</summary>
     <details>
-        <summary>Internships</summary>
-        <li><a href="https://careers.jpmorgan.com/global/en/students/programs/online-academy">Online Academy | JPMorgan Chase &amp; Co.</a></li>
-        <li><a href="http://web.stanford.edu/class/cs9/">CS9: Problem-Solving for the CS Technical Interview</a></li>
-        <li><a href="https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html?cid=sf01003">Google Recruiters Say Using the &amp;#39;X-Y-Z Formula&amp;#39; on Your Resume Will Improve Your Odds of Getting Hired at Google | Inc.com</a></li>
-        <li><a href="https://techdevguide.withgoogle.com/">Google Tech Dev Guide</a></li>
-        <li><a href="https://www.algoexpert.io/joma?fbclid=IwAR1CiU-UEd4GciV6xm6SVbskKFA-vMvXSgJzsLY6fFzJ_iwZ_BkWv_A4rt8">AlgoExpert | 77 Video Explanations of Popular Interview Questions</a></li>
-        <li><a href="https://resumehub.org/">ResumeHub</a></li>
-        <li><a href="https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU?utm_source=share&utm_medium=ios_app">Tech Careers: New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time - Blind</a></li>
-        <li><a href="https://hunter.io/">Find email addresses in seconds • Hunter (Email Hunter)</a></li>
-        <li><a href="https://www.mequilibrium.com/gsrecruiting/">meQulibrium + Goldman Sachs | meQuilibrium</a></li>
-        <li><a href="https://www.techinasia.com/talk/5-companines-5-days-5-offers">How I interviewed for 5 top companies in 5 days and got job offers from all of them</a></li>
-        <li><a href="https://www.levels.fyi/hiring/">Who Is Hiring | Levels.fyi</a></li>
-        <li><a href="https://nus-csm.symplicity.com/">Welcome to NUS TalentConnect!</a></li>
-        <li><a href="https://www.pramp.com/">Practice Mock Interviews &amp; Coding Problems - Land Top Jobs | Pramp</a></li>
-        <li><a href="https://www.vettery.com/">Vettery — Recruiting, upgraded</a></li>
-        <li><a href="https://www.massapply.com/dashboard">MassApply</a></li>
+        <summary>University</summary>
         <details>
-            <summary>NUS IT</summary>
-            <li><a href="https://forum.tufin.com/support/kc/latest/securetrack/apidoc/">Swagger UI</a></li>
+            <summary>Internships</summary>
+            <li><a href="https://careers.jpmorgan.com/global/en/students/programs/online-academy">Online Academy | JPMorgan Chase &amp; Co.</a></li>
+            <li><a href="http://web.stanford.edu/class/cs9/">CS9: Problem-Solving for the CS Technical Interview</a></li>
+            <li><a href="https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html?cid=sf01003">Google Recruiters Say Using the &amp;#39;X-Y-Z Formula&amp;#39; on Your Resume Will Improve Your Odds of Getting Hired at Google | Inc.com</a></li>
+            <li><a href="https://techdevguide.withgoogle.com/">Google Tech Dev Guide</a></li>
+            <li><a href="https://www.algoexpert.io/joma?fbclid=IwAR1CiU-UEd4GciV6xm6SVbskKFA-vMvXSgJzsLY6fFzJ_iwZ_BkWv_A4rt8">AlgoExpert | 77 Video Explanations of Popular Interview Questions</a></li>
+            <li><a href="https://resumehub.org/">ResumeHub</a></li>
+            <li><a href="https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU?utm_source=share&utm_medium=ios_app">Tech Careers: New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time - Blind</a></li>
+            <li><a href="https://hunter.io/">Find email addresses in seconds • Hunter (Email Hunter)</a></li>
+            <li><a href="https://www.mequilibrium.com/gsrecruiting/">meQulibrium + Goldman Sachs | meQuilibrium</a></li>
+            <li><a href="https://www.techinasia.com/talk/5-companines-5-days-5-offers">How I interviewed for 5 top companies in 5 days and got job offers from all of them</a></li>
+            <li><a href="https://www.levels.fyi/hiring/">Who Is Hiring | Levels.fyi</a></li>
+            <li><a href="https://nus-csm.symplicity.com/">Welcome to NUS TalentConnect!</a></li>
+            <li><a href="https://www.pramp.com/">Practice Mock Interviews &amp; Coding Problems - Land Top Jobs | Pramp</a></li>
+            <li><a href="https://www.vettery.com/">Vettery — Recruiting, upgraded</a></li>
+            <li><a href="https://www.massapply.com/dashboard">MassApply</a></li>
+            <li><a href="https://stars.sginnovate.com/">STARS @ SGInnovate | Home</a></li>
+            <details>
+                <summary>NUS IT</summary>
+                <li><a href="https://forum.tufin.com/support/kc/latest/securetrack/apidoc/">Swagger UI</a></li>
+            </details>
         </details>
-        <li><a href="https://stars.sginnovate.com/">STARS @ SGInnovate | Home</a></li>
+        <details>
+            <summary>Academics</summary>
+            <li><a href="https://yangshun.github.io/nus-bookmarks/">https://yangshun.github.io/nus-bookmarks/</a></li>
+            <li><a href="https://nusmods.com/timetable">NUSMods</a></li>
+            <li><a href="javascript:void(location.href='http://libproxy1.nus.edu.sg/login?url='+location.href);">NUS Libraries Proxy Bookmarklet</a></li>
+            <li><a href="https://cs2107-ctfd-i.comp.nus.edu.sg:8000/challenges">CS2107-CTFd-2021-Sem2</a></li>
+            <li><a href="https://www.alpertron.com.ar/DILOG.HTM">Discrete logarithm calculator</a></li>
+            <li><a href="https://www.su.org/blog/singularityu-singapore-chapter-a-bridge-between-worlds">SingularityU Singapore Chapter: A Bridge Between Worlds - Singularity</a></li>
+        </details>
         <details>
             <summary>Research</summary>
             <li><a href="javascript:void(location.href='http://libproxy1.nus.edu.sg/login?url='+location.href);">NUS Libraries Proxy Bookmarklet</a></li>
@@ -102,16 +109,6 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
 </details>
 
 <details>
-    <summary>Academics</summary>
-    <li><a href="https://yangshun.github.io/nus-bookmarks/">https://yangshun.github.io/nus-bookmarks/</a></li>
-    <li><a href="https://nusmods.com/timetable">NUSMods</a></li>
-    <li><a href="javascript:void(location.href='http://libproxy1.nus.edu.sg/login?url='+location.href);">NUS Libraries Proxy Bookmarklet</a></li>
-    <li><a href="https://cs2107-ctfd-i.comp.nus.edu.sg:8000/challenges">CS2107-CTFd-2021-Sem2</a></li>
-    <li><a href="https://www.alpertron.com.ar/DILOG.HTM">Discrete logarithm calculator</a></li>
-    <li><a href="https://www.su.org/blog/singularityu-singapore-chapter-a-bridge-between-worlds">SingularityU Singapore Chapter: A Bridge Between Worlds - Singularity</a></li>
-</details>
-
-<details>
     <summary>Entertainment</summary>
     <li><a href="https://www.cisdem.com/resource/find-similar-songs.html">Similar Song Finder: How to Find Similar Songs</a></li>
     <li><a href="https://mubi.com/showing">Films Now Showing on MUBI</a></li>
@@ -120,6 +117,7 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
     <li><a href="https://www.justwatch.com/">JustWatch - The Streaming Guide</a></li>
     <li><a href="https://tubitv.com/home">Watch Free Movies and TV Shows Online | Streaming Movies and TV | Tubi</a></li>
     <li><a href="https://garticphone.com/">Gartic Phone - The Telephone Game</a></li>
+    <li><a href="https://www.themoviedb.org/">The Movie Database (TMDB)</a></li>
 </details>
 
 <details>
@@ -136,11 +134,11 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
 
 <details>
     <summary>Food</summary>
+    <li><a href="https://changi.ezqr.sg/">Changi Eats - Order from your favourite F&B outlets at Changi Airport and Jewel</a></li>
     <li><a href="https://saveur.sg/">SAVEUR - Saveur</a></li>
     <li><a href="https://perch.sg/">https://perch.sg</a></li>
     <li><a href="https://tonito.sg/">https://tonito.sg</a></li>
     <li><a href="https://www.globalprice.info/en/?p=singapore/food-prices">Food prices in Singapore at cafes and restaurants</a></li>
-    <li><a href="https://asianfoodnetwork.com/en/recipes/time.html">Time</a></li>
     <li><a href="https://asianfoodnetwork.com/">Asian Food Network | The Home Of Asian Recipes &amp; Cuisine</a></li>
     <li><a href="https://sarahhuangbenjamin.com/home/2018/8/22/is-sushi-sacred">Is Sushi Sacred?</a></li>
     <li><a href="https://www.tasteatlas.com/">World Food Atlas: Discover 13511 Local Dishes &amp; Ingredients</a></li>
@@ -167,10 +165,8 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
             <li><a href="https://blog.bantu.life/10-free-software-non-profits-can-use-during-the-covid-19-crisis/">10 Free Software Non-Profits Can Use During The COVID-19 Crisis (+ Links &amp; Infographic) - bantu Blog — The Community Management &amp; Engagement Blog for the Social Sector</a></li>
             <li><a href="https://layoffs.fyi/tracker/">Layoffs.fyi Coronavirus Tracker - Layoffs.fyi</a></li>
             <li><a href="https://www.sgpaysitforward.com/?utm_source=Tech+in+Asia+Main+List&utm_campaign=db72d57d40-20200422_Daily_nonsub_news&utm_medium=email&utm_term=0_7f08f27dbf-db72d57d40-52758197&goal=0_7f08f27dbf-db72d57d40-52758197&mc_cid=db72d57d40">SGPaySitForward | Send your love to fellow Singaporeans with Care Pack – #SGPAYSITFORWARD</a></li>
-            <li><a href="https://www.foodpanda.sg/contents/pandamart-grocery-stores">grocery stores near you in Singapore | pandamart | foodpanda</a></li>
             <li><a href="https://www.mehgowhere.sg/">Meh Go Where</a></li>
         </details>
-        <li><a href="https://www.deniseaustin.com/">Denise Austin</a></li>
         <li><a href="https://elitefitforyou.com/home">EliteFit.AI - Workout with AI Don&amp;#39;t settle for less</a></li>
         <li><a href="https://www.olly.com.sg/">Home | Olly Singapore| Unilever</a></li>
         <li><a href="https://sites.google.com/shopee.com/shopeeintranet/Welfare/Wellness/gym-and-fitness-classes/home-workout-videos">Home Workout Videos</a></li>
@@ -214,19 +210,6 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
     <summary>Reading</summary>
     <li><a href="https://www.chalchitratalks.com/">Chalchitra Talks</a></li>
     <li><a href="https://www.wereadtoo.com/">We Read Too</a></li>
-</details>
-
-<details>
-    <summary>Research</summary>
-    <li><a href="javascript:void(location.href='http://libproxy1.nus.edu.sg/login?url=%27+location.href);">NUS Libraries Proxy Bookmarklet</a></li>
-    <li><a href="https://dblp.org/">dblp: computer science bibliography</a></li>
-    <li><a href="https://arxiv.org/">arXiv.org e-Print archive</a></li>
-    <li><a href="https://scholar.google.com/">Google Scholar</a></li>
-    <li><a href="http://citeseer.ist.psu.edu/index;jsessionid=E78B80BC8ACE38E916B40AD5CED2A88B">CiteSeerX</a></li>
-    <li><a href="https://dl.acm.org/">ACM Digital Library</a></li>
-    <li><a href="https://nuscomputingdev.github.io/SoCollate/printing.html">Collate, SoC style</a></li>
-    <li><a href="https://www.paypal.com/businesswallet/currencyConverter/SGD?flow=cmV0dXJuVXJsPS9teWFjY291bnQvbW9uZXkmY2FuY2VsVXJsPS9teWFjY291bnQvbW9uZXk=%7D">Money</a></li>
-    <li><a href="https://www.paypal.com/businesswallet/currencyConverter/SGD?flow=cmV0dXJuVXJsPS9teWFjY291bnQvbW9uZXkmY2FuY2VsVXJsPS9teWFjY291bnQvbW9uZXk=}">Money</a></li>
 </details>
 
 <details>
@@ -306,15 +289,10 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
     <li><a href="https://www.cups.org/doc/options.html">Command-Line Printing and Options</a></li>
     <li><a href="https://www.skillshare.com/home">Home - Skillshare</a></li>
     <li><a href="http://theleanprogrammer.com/flashtype/">FlashType</a></li>
-    <li><a href="https://atlanta.techtogether.io/">TechTogether Atlanta</a></li>
-    <li><a href="https://changi.ezqr.sg/">Food</a></li>
+    <li><a href="https://techtogether.io/">TechTogether</a></li>
     <li><a href="https://www.ted.com/">TED: Ideas Worth Spreading</a></li>
     <li><a href="https://www.csf.gov.sg/">Centre for Strategic Futures</a></li>
     <li><a href="https://donotpay.com/">DoNotPay - The World&amp;#39;s First Robot Lawyer</a></li>
-    <li><a href="https://www.bodybuilding.com/en-SG/index">Bodybuilding.com - Huge Online Supplement Store &amp; Fitness Community!</a></li>
-    <li><a href="https://www.themarginalian.org/">The Marginalian – Marginalia on our search for meaning.</a></li>
-    <li><a href="https://www.giving.sg/">Welcome to Giving.sg! | The one-stop platform for you to donate, volunteer or fundraise. - Giving.sg</a></li>
-    <li><a href="https://www.givewell.org/">GiveWell | Charity Reviews and Research</a></li>
     <li><a href="https://awesomeopensource.com/">Find Open Source By Searching, Browsing and Combining 7,000 Topics</a></li>
     <li><a href="https://education.github.com/pack">GitHub Student Developer Pack - GitHub Education</a></li>
     <li><a href="https://commits.top/">Most active GitHub users</a></li>
@@ -467,7 +445,6 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
     <li><a href="https://docs.google.com/spreadsheets/d/1BRIVbFf3PWYL5mxxzBHQGznU81IavMtGvHNLs_HxlXU/edit#gid=0">FAANGPath Resources - Google Sheets</a></li>
     <li><a href="https://www.workatastartup.com/">Startup Jobs at YC Companies in Engineering, Product, Design, Remote and more | Y Combinator&amp;#39;s Work at a Startup</a></li>
     <li><a href="https://www.silverkris.com/">SilverKris | Your Singapore Airlines Travel Guide</a></li>
-    <li><a href="https://www.themoviedb.org/">The Movie Database (TMDB)</a></li>
     <li><a href="https://internationalhub.netlify.app/">International Hub</a></li>
     <li><a href="https://hirescholars.com/">Browse Internships, Jobs, Companies &amp; Content | Scholars</a></li>
     <li><a href="https://www.beondeck.com/">On Deck</a></li>
@@ -485,4 +462,5 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
     <li><a href="https://www.theminimalists.com/class/">How to Write Better: General Writing Class - The Minimalists</a></li>
     <li><a href="https://nik.art/">nik.art - I write for dreamers, doers, and unbroken optimists.</a></li>
     <li><a href="https://www.themarginalian.org/">The Marginalian – Marginalia on our search for meaning.</a></li>
+    <li><a href="https://creator.institute">Book Creators | Write Better, Write Together</a></li>
 </details>
