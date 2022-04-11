@@ -1,7 +1,8 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Aadit Kamat',
-  tagline: 'Software Engineer at Visa Singapore. Opinions are my own and not the views of my employer ',
+  tagline:
+    'Software Engineer at Visa Singapore. Opinions are my own and not the views of my employer ',
   url: 'https://aaditkamat.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -9,19 +10,17 @@ module.exports = {
   favicon: 'img/profile.jpg',
   organizationName: 'aaditkamat', // Usually your GitHub org/user name.
   projectName: 'aaditkamat.com', // Usually your repo name.
-  stylesheets: [
-    'https://assets.calendly.com/assets/external/widget.css'
-  ],
+  stylesheets: ['https://assets.calendly.com/assets/external/widget.css'],
   scripts: [
     {
       src: 'https://assets.calendly.com/assets/external/widget.js',
-      async: true
-    }
+      async: true,
+    },
   ],
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
-      disableSwitch: false
+      disableSwitch: false,
     },
     navbar: {
       title: 'Aadit Kamat',
@@ -29,32 +28,32 @@ module.exports = {
         {
           to: '/about-me',
           label: 'About Me',
-          position: 'right'
+          position: 'right',
         },
         {
           to: '/resume',
           label: 'Résumé',
-          position: 'right'
+          position: 'right',
         },
         {
           to: '/calendar',
           label: 'Calendar',
-          position: 'right'
+          position: 'right',
         },
         {
           to: '/bookmarks',
           label: 'Bookmarks',
-          position: 'right'
+          position: 'right',
         },
         {
           to: '/podcasts',
           label: 'Podcasts',
-          position: 'right'
+          position: 'right',
         },
         {
-          to: '/blog', 
-          label: 'Blog', 
-          position: 'right'
+          to: '/blog',
+          label: 'Blog',
+          position: 'right',
         },
         {
           to: '/projects',
@@ -77,10 +76,9 @@ module.exports = {
           showReadingTime: true,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`
-          }, 
-          editUrl:
-            'https://github.com/aaditkamat/aaditkamat',
+            copyright: `Copyright © ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`,
+          },
+          editUrl: 'https://github.com/aaditkamat/aaditkamat',
         },
         gtag: {
           trackingID: '3383267694',
