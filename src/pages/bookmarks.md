@@ -62,28 +62,38 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
         <li><a href="https://app.growthmentor.com/search">GrowthMentor</a></li>
     </details>
     <details>
-    <summary>University</summary>
-    <details>
-        <summary>Internships</summary>
-        <li><a href="https://careers.jpmorgan.com/global/en/students/programs/online-academy">Online Academy | JPMorgan Chase &amp; Co.</a></li>
-        <li><a href="http://web.stanford.edu/class/cs9/">CS9: Problem-Solving for the CS Technical Interview</a></li>
-        <li><a href="https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html?cid=sf01003">Google Recruiters Say Using the &amp;#39;X-Y-Z Formula&amp;#39; on Your Resume Will Improve Your Odds of Getting Hired at Google | Inc.com</a></li>
-        <li><a href="https://techdevguide.withgoogle.com/">Google Tech Dev Guide</a></li>
-        <li><a href="https://www.algoexpert.io/joma?fbclid=IwAR1CiU-UEd4GciV6xm6SVbskKFA-vMvXSgJzsLY6fFzJ_iwZ_BkWv_A4rt8">AlgoExpert | 77 Video Explanations of Popular Interview Questions</a></li>
-        <li><a href="https://resumehub.org/">ResumeHub</a></li>
-        <li><a href="https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU?utm_source=share&utm_medium=ios_app">Tech Careers: New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time - Blind</a></li>
-        <li><a href="https://hunter.io/">Find email addresses in seconds • Hunter (Email Hunter)</a></li>
-        <li><a href="https://www.mequilibrium.com/gsrecruiting/">meQulibrium + Goldman Sachs | meQuilibrium</a></li>
-        <li><a href="https://www.techinasia.com/talk/5-companines-5-days-5-offers">How I interviewed for 5 top companies in 5 days and got job offers from all of them</a></li>
-        <li><a href="https://www.levels.fyi/hiring/">Who Is Hiring | Levels.fyi</a></li>
-        <li><a href="https://nus-csm.symplicity.com/">Welcome to NUS TalentConnect!</a></li>
-        <li><a href="https://www.pramp.com/">Practice Mock Interviews &amp; Coding Problems - Land Top Jobs | Pramp</a></li>
-        <li><a href="https://www.vettery.com/">Vettery — Recruiting, upgraded</a></li>
-        <li><a href="https://www.massapply.com/dashboard">MassApply</a></li>
-        <li><a href="https://stars.sginnovate.com/">STARS @ SGInnovate | Home</a></li>
+        <summary>University</summary>
         <details>
-            <summary>NUS IT</summary>
-            <li><a href="https://forum.tufin.com/support/kc/latest/securetrack/apidoc/">Swagger UI</a></li>
+            <summary>Internships</summary>
+            <li><a href="https://careers.jpmorgan.com/global/en/students/programs/online-academy">Online Academy | JPMorgan Chase &amp; Co.</a></li>
+            <li><a href="http://web.stanford.edu/class/cs9/">CS9: Problem-Solving for the CS Technical Interview</a></li>
+            <li><a href="https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html?cid=sf01003">Google Recruiters Say Using the &amp;#39;X-Y-Z Formula&amp;#39; on Your Resume Will Improve Your Odds of Getting Hired at Google | Inc.com</a></li>
+            <li><a href="https://techdevguide.withgoogle.com/">Google Tech Dev Guide</a></li>
+            <li><a href="https://www.algoexpert.io/joma?fbclid=IwAR1CiU-UEd4GciV6xm6SVbskKFA-vMvXSgJzsLY6fFzJ_iwZ_BkWv_A4rt8">AlgoExpert | 77 Video Explanations of Popular Interview Questions</a></li>
+            <li><a href="https://resumehub.org/">ResumeHub</a></li>
+            <li><a href="https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU?utm_source=share&utm_medium=ios_app">Tech Careers: New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time - Blind</a></li>
+            <li><a href="https://hunter.io/">Find email addresses in seconds • Hunter (Email Hunter)</a></li>
+            <li><a href="https://www.mequilibrium.com/gsrecruiting/">meQulibrium + Goldman Sachs | meQuilibrium</a></li>
+            <li><a href="https://www.techinasia.com/talk/5-companines-5-days-5-offers">How I interviewed for 5 top companies in 5 days and got job offers from all of them</a></li>
+            <li><a href="https://www.levels.fyi/hiring/">Who Is Hiring | Levels.fyi</a></li>
+            <li><a href="https://nus-csm.symplicity.com/">Welcome to NUS TalentConnect!</a></li>
+            <li><a href="https://www.pramp.com/">Practice Mock Interviews &amp; Coding Problems - Land Top Jobs | Pramp</a></li>
+            <li><a href="https://www.vettery.com/">Vettery — Recruiting, upgraded</a></li>
+            <li><a href="https://www.massapply.com/dashboard">MassApply</a></li>
+            <li><a href="https://stars.sginnovate.com/">STARS @ SGInnovate | Home</a></li>
+            <details>
+                <summary>NUS IT</summary>
+                <li><a href="https://forum.tufin.com/support/kc/latest/securetrack/apidoc/">Swagger UI</a></li>
+            </details>
+        </details>
+        <details>
+            <summary>Academics</summary>
+            <li><a href="https://yangshun.github.io/nus-bookmarks/">https://yangshun.github.io/nus-bookmarks/</a></li>
+            <li><a href="https://nusmods.com/timetable">NUSMods</a></li>
+            <li><a href="javascript:void(location.href='http://libproxy1.nus.edu.sg/login?url='+location.href);">NUS Libraries Proxy Bookmarklet</a></li>
+            <li><a href="https://cs2107-ctfd-i.comp.nus.edu.sg:8000/challenges">CS2107-CTFd-2021-Sem2</a></li>
+            <li><a href="https://www.alpertron.com.ar/DILOG.HTM">Discrete logarithm calculator</a></li>
+            <li><a href="https://www.su.org/blog/singularityu-singapore-chapter-a-bridge-between-worlds">SingularityU Singapore Chapter: A Bridge Between Worlds - Singularity</a></li>
         </details>
         <details>
             <summary>Research</summary>
@@ -95,15 +105,6 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
             <li><a href="https://dl.acm.org/">ACM Digital Library</a></li>
             <li><a href="https://nuscomputingdev.github.io/SoCollate/printing.html">Collate, SoC style</a></li>
         </details>
-    </details>
-    <details>
-        <summary>Academics</summary>
-        <li><a href="https://yangshun.github.io/nus-bookmarks/">https://yangshun.github.io/nus-bookmarks/</a></li>
-        <li><a href="https://nusmods.com/timetable">NUSMods</a></li>
-        <li><a href="javascript:void(location.href='http://libproxy1.nus.edu.sg/login?url='+location.href);">NUS Libraries Proxy Bookmarklet</a></li>
-        <li><a href="https://cs2107-ctfd-i.comp.nus.edu.sg:8000/challenges">CS2107-CTFd-2021-Sem2</a></li>
-        <li><a href="https://www.alpertron.com.ar/DILOG.HTM">Discrete logarithm calculator</a></li>
-        <li><a href="https://www.su.org/blog/singularityu-singapore-chapter-a-bridge-between-worlds">SingularityU Singapore Chapter: A Bridge Between Worlds - Singularity</a></li>
     </details>
 </details>
 
