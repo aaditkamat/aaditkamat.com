@@ -167,7 +167,6 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
             <li><a href="https://www.sgpaysitforward.com/?utm_source=Tech+in+Asia+Main+List&utm_campaign=db72d57d40-20200422_Daily_nonsub_news&utm_medium=email&utm_term=0_7f08f27dbf-db72d57d40-52758197&goal=0_7f08f27dbf-db72d57d40-52758197&mc_cid=db72d57d40">SGPaySitForward | Send your love to fellow Singaporeans with Care Pack – #SGPAYSITFORWARD</a></li>
             <li><a href="https://www.mehgowhere.sg/">Meh Go Where</a></li>
         </details>
-        <li><a href="https://www.deniseaustin.com/">Denise Austin</a></li>
         <li><a href="https://elitefitforyou.com/home">EliteFit.AI - Workout with AI Don&amp;#39;t settle for less</a></li>
         <li><a href="https://www.olly.com.sg/">Home | Olly Singapore| Unilever</a></li>
         <li><a href="https://sites.google.com/shopee.com/shopeeintranet/Welfare/Wellness/gym-and-fitness-classes/home-workout-videos">Home Workout Videos</a></li>
