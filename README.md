@@ -1,4 +1,6 @@
-# Website
+# Aadit's Personal Website
+
+[![CodeFactor](https://www.codefactor.io/repository/github/aaditkamat/aaditkamat.com/badge)](https://www.codefactor.io/repository/github/aaditkamat/aaditkamat.com)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
