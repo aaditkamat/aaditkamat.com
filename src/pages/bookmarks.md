@@ -430,6 +430,7 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
 
 <details>
     <summary>Work</summary>
+    <li><a href="https://hackertrail.com">A Tech-focused Community to Help Techies to Get Great Jobs | HackerTrail</a></li>
     <li><a href="https://careers.jpmorgan.com/global/en/students/programs/online-academy">Online Academy | JPMorgan Chase &amp; Co.</a></li>
     <li><a href="https://workology.com/">Home | Workology</a></li>
     <li><a href="http://web.stanford.edu/class/cs9/">CS9: Problem-Solving for the CS Technical Interview</a></li>
