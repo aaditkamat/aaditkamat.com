@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@axe-core/cli": "4.4.2",
-    "cypress": "9.5.3"
+    "cypress": "9.5.4"
   },
   "browserslist": {
     "production": [
