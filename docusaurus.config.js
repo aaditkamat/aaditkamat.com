@@ -16,6 +16,12 @@ module.exports = {
       src: 'https://assets.calendly.com/assets/external/widget.js',
       async: true,
     },
+    {
+      src: 'https://instant.page/5.1.0',
+      aync: true,
+      type: 'module',
+      integrity: 'sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw'
+    }
   ],
   themeConfig: {
     colorMode: {
