@@ -10,7 +10,7 @@ export default function Home() {
         <div className="container">
           <img
             src="https://avatars.githubusercontent.com/u/30969577?s=400&u=9558fc3557d79c88a7080034fe8c22654aca2e4d&v=4"
-            alt="logo"
+            alt="GitHub profile picture"
             style={{
               borderRadius: '200%',
               maxWidth: '200px',
