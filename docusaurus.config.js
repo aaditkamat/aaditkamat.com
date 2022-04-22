@@ -1,8 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Aadit Kamat',
-  tagline:
-    'Software Engineer at Visa Singapore. Opinions are my own and not the views of my employer ',
+  tagline: 'Personal Website',
   url: 'https://aaditkamat.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -24,6 +23,13 @@ module.exports = {
     },
   ],
   themeConfig: {
+    metadata: [
+      {
+        name: 'description',
+        content: 'Hello world, this is Aadit. Welcome to my 🏠 on the internet.',
+      },
+      { name: 'robots', content: 'index, follow' },
+    ],
     colorMode: {
       defaultMode: 'light',
       disableSwitch: false,
