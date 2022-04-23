@@ -72,6 +72,11 @@ module.exports = {
           label: 'Projects',
           position: 'right',
         },
+        {
+          to: '/tools',
+          label: 'Tools',
+          position: 'right',
+        },
       ],
     },
     footer: {
