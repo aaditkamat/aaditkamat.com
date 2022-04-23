@@ -1,7 +1,6 @@
 # Aadit's Personal Website
 
 [![CodeFactor](https://www.codefactor.io/repository/github/aaditkamat/aaditkamat.com/badge)](https://www.codefactor.io/repository/github/aaditkamat/aaditkamat.com)
-[![End-to-end tests](https://github.com/aaditkamat/aaditkamat.com/actions/workflows/cypress.yml/badge.svg)](https://github.com/aaditkamat/aaditkamat.com/actions/workflows/cypress.yml)
 [![Code Scanning](https://github.com/aaditkamat/aaditkamat.com/actions/workflows/codeql.yml/badge.svg)](https://github.com/aaditkamat/aaditkamat.com/actions/workflows/codeql.yml)
 [![pages-build-deployment](https://github.com/aaditkamat/aaditkamat.com/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/aaditkamat/aaditkamat.com/actions/workflows/pages/pages-build-deployment)
 
