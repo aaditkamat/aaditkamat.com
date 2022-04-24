@@ -2,7 +2,7 @@
 
 [![CodeFactor](https://www.codefactor.io/repository/github/aaditkamat/aaditkamat.com/badge)](https://www.codefactor.io/repository/github/aaditkamat/aaditkamat.com)
 [![Code Scanning](https://github.com/aaditkamat/aaditkamat.com/actions/workflows/codeql.yml/badge.svg)](https://github.com/aaditkamat/aaditkamat.com/actions/workflows/codeql.yml)
-[![pages-build-deployment](https://github.com/aaditkamat/aaditkamat.com/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/aaditkamat/aaditkamat.com/actions/workflows/pages/pages-build-deployment)
+[![GitHub Pages Deployment](https://github.com/aaditkamat/aaditkamat.com/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/aaditkamat/aaditkamat.com/actions/workflows/pages/pages-build-deployment)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
