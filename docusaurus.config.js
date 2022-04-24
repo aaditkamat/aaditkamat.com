@@ -85,10 +85,11 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`,
     },
     algolia: {
-      appId: 'R2IYF7ETH7',
-      apiKey: '599cec31baffa4868cae4e79f180729b',
-      indexName: 'docsearch',
-    }
+      appId: 'WJN0XIID67',
+      apiKey: 'febd5d35bcd8f1507964e3c01fa82bb7',
+      indexName: 'aaditkamat',
+      contextualSearch: true,
+    },
   },
   presets: [
     [
