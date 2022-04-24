@@ -266,6 +266,7 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
         <li><a href="https://www.hacker101.com/">Home | Hacker101</a></li>
         <li><a href="https://twofactorauth.org/">Two Factor Auth List</a></li>
     </details>
+    <li><a href="https://www.alfredworkflows.store">Alfred Workflows</a></li>
     <li><a href="https://javascriptdb.com">JavascriptDB</a></li>
     <li><a href="https://fullstackpython.com">Full Stack Python </a></li>
     <li><a href="https://techieweed.com/">Techieweed - Get High on Technology</a></li>
