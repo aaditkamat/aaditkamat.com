@@ -38,6 +38,8 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
     <summary>Education</summary>
     <details>
         <summary>Learning</summary>
+        <li><a href="https://gohighbrow.com/courses/">Courses | Highbrow</a></li>
+        <li><a href="https://maven.com">Maven: Create and teach cohort-based courses </a></li>
         <li><a href="https://learn-anything.xyz/">Learn Anything</a></li>
         <li><a href="https://www.thoughtco.com/">ThoughtCo.com is the World's Largest Education Resource</a></li>
         <li><a href="https://www.freecodecamp.org/news/stages-of-learning/">Stages of learning</a></li>
@@ -204,6 +206,8 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
 <details>
     <summary>Productivity</summary>
     <li><a href="https://pomofocus.io/">Pomodoro Timer Online - Pomofocus</a></li>
+    <li><a href="https://www.brain.fm/"> Brain.fm: Music to improve focus, meditate & sleep </a></li>
+    <li><a href="https://jarango.com/2022/04/08/three-types-of-notes/"> Three Types of Notes | Jorge Arango </a></li>
 </details>
 
 <details>
@@ -236,8 +240,9 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
 
 <details>
     <summary>Stock Images</summary>
-    <li><a href="https://unsplash.com/">Beautiful Free Images &amp; Pictures | Unsplash</a></li>
-    <li><a href="https://www.gettyimages.in/">Royalty Free Stock Photos, Illustrations, Vector Art and Video Clips - Getty Images</a></li>
+    <li><a href="https://unsplash.com/">Unsplash</a></li>
+    <li><a href="https://www.pexels.com/">Pexels</a></li>
+    <li><a href="https://www.gettyimages.in/">Getty Images</a></li>
 </details>
 
 <details>
@@ -261,6 +266,8 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
         <li><a href="https://www.hacker101.com/">Home | Hacker101</a></li>
         <li><a href="https://twofactorauth.org/">Two Factor Auth List</a></li>
     </details>
+    <li><a href="https://javascriptdb.com">JavascriptDB</a></li>
+    <li><a href="https://fullstackpython.com">Full Stack Python </a></li>
     <li><a href="https://techieweed.com/">Techieweed - Get High on Technology</a></li>
     <li><a href="https://top10vpn.com">Top 10 VPN: VPN Reviews You Can Trust</a></li>
     <li><a href="https://www.producthunt.com/">Product Hunt – The best new products in tech.</a></li>
@@ -404,6 +411,7 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
 <details>
     <summary>Travel</summary>
     <li><a href="https://www.readytotravel.com/">Ready To Travel - Creating the best trips together</a></li>
+    <li><a href="https://app.scottscheapflights.com/">Scott’s Cheap Flights - Alerts for the Cheapest Flights</a></li>
     <li><a href="https://www.inspirock.com/">Trip Planner: Plan &amp; manage your vacation itinerary on Inspirock • Inspirock</a></li>
     <li><a href="https://www.tripadvisor.com.sg/?fid=32505ab1-bc32-4d0f-a2ab-b8befd5c518f">TripAdvisor: Read Reviews, Compare Prices &amp; Book</a></li>
     <li><a href="https://www.booking.com/">Booking.com | Official site | The best hotels &amp; accommodations</a></li>
@@ -430,6 +438,7 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
 
 <details>
     <summary>Work</summary>
+    <li><a href="https://app.talanddev.com/match">Match | Tal & Dev</a></li>
     <li><a href="https://hackertrail.com">A Tech-focused Community to Help Techies to Get Great Jobs | HackerTrail</a></li>
     <li><a href="https://careers.jpmorgan.com/global/en/students/programs/online-academy">Online Academy | JPMorgan Chase &amp; Co.</a></li>
     <li><a href="https://workology.com/">Home | Workology</a></li>
@@ -456,6 +465,7 @@ These are the sites I have bookmarked for reference on the browsers on my [Macbo
 <details>
     <summary>Writing</summary>
     <li><a href="https://blog.jotterpad.app/">JotterPad Blog</a></li>
+    <li><a href="https://pitchwars.org/">Pitch Wars</a></li>
     <li><a href="https://www.ship30for30.com/">Start Writing Online in 30 Days - Ship 30 for 30</a></li>
     <li><a href="http://www.markwk.com/category/writing/">Writing | Mark Koester</a></li>
     <li><a href="https://perell.com/essays/">Essays - David Perell</a></li>
