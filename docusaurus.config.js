@@ -43,13 +43,8 @@ module.exports = {
           position: 'right',
         },
         {
-          to: '/resume',
-          label: 'Résumé',
-          position: 'right',
-        },
-        {
-          to: '/calendar',
-          label: 'Calendar',
+          to: '/blog',
+          label: 'Blog',
           position: 'right',
         },
         {
@@ -58,18 +53,23 @@ module.exports = {
           position: 'right',
         },
         {
+          to: '/calendar',
+          label: 'Calendar',
+          position: 'right',
+        },
+        {
           to: '/podcasts',
           label: 'Podcasts',
           position: 'right',
         },
         {
-          to: '/blog',
-          label: 'Blog',
+          to: '/projects',
+          label: 'Projects',
           position: 'right',
         },
         {
-          to: '/projects',
-          label: 'Projects',
+          to: '/resume',
+          label: 'Résumé',
           position: 'right',
         },
         {
