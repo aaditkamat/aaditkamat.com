@@ -118,7 +118,7 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright 2020 - © ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`,
+      copyright: `Copyright © 2020 - ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -129,7 +129,7 @@ module.exports = {
           showReadingTime: true,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright 2020 - © ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`,
+            copyright: `Copyright © 2020 - ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`,
           },
           editUrl: 'https://github.com/aaditkamat/aaditkamat',
         },
