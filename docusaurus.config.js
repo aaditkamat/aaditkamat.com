@@ -118,7 +118,7 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`,
+      copyright: `Copyright 2020 - © ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`,
     },
   },
   presets: [
