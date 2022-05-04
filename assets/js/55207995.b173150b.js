@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[9650],{3610:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"technology","count":1,"permalink":"/blog/tags/technology"}')}}]);

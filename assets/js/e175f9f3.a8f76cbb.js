@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[2881],{2530:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"education","count":3,"permalink":"/blog/tags/education"}')}}]);
