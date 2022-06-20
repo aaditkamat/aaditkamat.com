@@ -1,6 +1,6 @@
 ---
 slug: elevation-a-book-summary
-title: Elevation by Stephen King: A Book Summary
+title: Elevation by Stephen King - A Book Summary
 author: Aadit Kamat
 author_title: Software Engineer @ Visa Singapore. Opinions are my own and not the views of my employer.
 author_url: https://github.com/aaditkamat
