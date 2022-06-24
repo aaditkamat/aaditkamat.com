@@ -5,7 +5,7 @@ author: Aadit Kamat
 author_title: Software Engineer @ Visa Singapore. Opinions are my own and not the views of my employer.
 author_url: https://github.com/aaditkamat
 author_image_url: https://avatars.githubusercontent.com/u/30969577?s=400&u=9558fc3557d79c88a7080034fe8c22654aca2e4d&v=4
-tags: [writing, coding]
+tags: [college, life]
 ---
 
 <b>Prompt: Share a threshold you crossed - what you expected it to be like, how that differed from reality, and what it took to make it through</b>
