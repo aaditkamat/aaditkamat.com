@@ -21,6 +21,15 @@ module.exports = {
       type: 'module',
       integrity: 'sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw',
     },
+    {
+      src: 'https://utteranc.es/client.js',
+      repo: 'aaditkamat/aaditkamat.com',
+      issueTerm: 'url',
+      label: 'enhancement',
+      theme: 'github-light',
+      crossorigin: 'anonymous',
+      async: true,
+    },
   ],
   themeConfig: {
     metadata: [
