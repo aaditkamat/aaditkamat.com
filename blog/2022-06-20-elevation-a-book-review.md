@@ -1,6 +1,6 @@
 ---
-slug: elevation-a-book-summary
-title: Elevation by Stephen King - A Book Summary
+slug: elevation-a-book-review
+title: Elevation by Stephen King - A Book Review
 author: Aadit Kamat
 author_title: Software Engineer @ Visa Singapore. Opinions are my own and not the views of my employer.
 author_url: https://github.com/aaditkamat
@@ -36,7 +36,7 @@ I have heard about Stephen King a lot from my friend. Of course, I have also enj
 
 The premise of this novel is novel: who would have thought a person would die of weightlessness on Earth, as the gravitational pull on him decreases rapidly? It is yet again Stephen King foray into the supernatural. He hints at a reality that is outside human understanding. As Scott says, weight is just a construct that helps man understand his physical reality better like time. 
 
-The book is not nearly as dark or foreboding, because Scott is generally happy, even though he is acutely aware of his terminal illness. He is also able to make amends with the McCombes and enlist the help of Dierdre for his final journey. 
+The book is not nearly as dark or foreboding as some of the other Stephen King ones, because Scott is generally happy even though he is acutely aware of his terminal illness. He is also able to make amends with the McCombes and enlist the help of Dierdre for his final journey. 
 
 Though I have never been to a small town in America - the closest is probably the college town of Chapel Hill which I visited during my exchange - I felt a sense of warmth reading about the close relationships that the town’s inhabitants share, even if it accompanies the gossip and the prejudices often associated with a closed mentality. It reminded me of the TV Shows I have watched or books I have read about the villages in India or small towns in England. 
 
