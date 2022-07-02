@@ -2,12 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaditkamat.com/blog</id>
     <title>Aadit Kamat Blog</title>
-    <updated>2022-06-20T00:00:00.000Z</updated>
+    <updated>2022-07-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaditkamat.com/blog"/>
     <subtitle>Aadit Kamat Blog</subtitle>
     <icon>https://aaditkamat.com/img/profile.jpg</icon>
     <rights>Copyright © 2020 - 2022 Aadit Kamat. Built with Docusaurus.</rights>
+    <entry>
+        <title type="html"><![CDATA[What is the problem with external motivation?]]></title>
+        <id>what-is-the-problem-with-external-motivation</id>
+        <link href="https://aaditkamat.com/blog/what-is-the-problem-with-external-motivation"/>
+        <updated>2022-07-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is my response to a question that was asked on Quora recently: What is the problem with external motivation?]]></summary>
+        <content type="html"><![CDATA[<p>This is my response to a question that was asked on Quora recently: <a href="https://www.quora.com/unanswered/What-is-the-problem-with-external-motivation" target="_blank" rel="noopener noreferrer">What is the problem with external motivation?</a></p><p>I don’t think that external motivation in itself is a bad thing. We all need that kind of motivation from time to time, whether it comes from other people in your life like friends, family and colleagues or from things that give value to what you do like money.</p><p>The problem lies in being too dependent on external motivation. Now, that’s a hard balance to achieve because you don’t know where you are crossing the line. If the source of external motivation runs dry, you find yourself wallowing, like a fish out of water.</p><p>There is a certain kind of satisfaction we get from being able to set our own goals and achieving them. External motivation can feel like a proxy, where the source of that motivation steps in to give you the satisfaction instead of you striving for it.</p>]]></content>
+        <author>
+            <name>Aadit Kamat</name>
+            <uri>https://github.com/aaditkamat</uri>
+        </author>
+        <category label="books" term="books"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elevation by Stephen King - A Book Review]]></title>
         <id>elevation-a-book-review</id>

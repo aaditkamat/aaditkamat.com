@@ -4,11 +4,20 @@
         <title>Aadit Kamat Blog</title>
         <link>https://aaditkamat.com/blog</link>
         <description>Aadit Kamat Blog</description>
-        <lastBuildDate>Mon, 20 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2020 - 2022 Aadit Kamat. Built with Docusaurus.</copyright>
+        <item>
+            <title><![CDATA[What is the problem with external motivation?]]></title>
+            <link>https://aaditkamat.com/blog/what-is-the-problem-with-external-motivation</link>
+            <guid>what-is-the-problem-with-external-motivation</guid>
+            <pubDate>Sat, 02 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is my response to a question that was asked on Quora recently: What is the problem with external motivation?]]></description>
+            <content:encoded><![CDATA[<p>This is my response to a question that was asked on Quora recently: <a href="https://www.quora.com/unanswered/What-is-the-problem-with-external-motivation" target="_blank" rel="noopener noreferrer">What is the problem with external motivation?</a></p><p>I don’t think that external motivation in itself is a bad thing. We all need that kind of motivation from time to time, whether it comes from other people in your life like friends, family and colleagues or from things that give value to what you do like money.</p><p>The problem lies in being too dependent on external motivation. Now, that’s a hard balance to achieve because you don’t know where you are crossing the line. If the source of external motivation runs dry, you find yourself wallowing, like a fish out of water.</p><p>There is a certain kind of satisfaction we get from being able to set our own goals and achieving them. External motivation can feel like a proxy, where the source of that motivation steps in to give you the satisfaction instead of you striving for it.</p>]]></content:encoded>
+            <category>books</category>
+        </item>
         <item>
             <title><![CDATA[Elevation by Stephen King - A Book Review]]></title>
             <link>https://aaditkamat.com/blog/elevation-a-book-review</link>
