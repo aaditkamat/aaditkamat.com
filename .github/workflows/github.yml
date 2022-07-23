@@ -19,7 +19,7 @@ jobs:
           yarn build
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4.3.4
+        uses: JamesIves/github-pages-deploy-action@v4.4.0
         with:
           branch: master # The branch the action should deploy to.
           git-config-name: Aadit Kamat # Name used when pushing deployment commits
