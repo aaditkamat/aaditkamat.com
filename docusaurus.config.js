@@ -134,13 +134,19 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
+        docs: {
+          sidebarPath: require.resolve("./sidebars.js"),
+          routeBasePath: "/",
+          // Please change this to your repo.
+          editUrl: "https://github.com/aaditkamat/aaditkamat.com/tree/develop/",
+        },
         blog: {
           showReadingTime: true,
           feedOptions: {
             type: 'all',
             copyright: `Copyright © 2020 - ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`,
           },
-          editUrl: 'https://github.com/aaditkamat/aaditkamat',
+          editUrl: 'https://github.com/aaditkamat/aaditkamat.com/tree/develop/',
         },
         gtag: {
           trackingID: '3383267694',
