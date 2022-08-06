@@ -69,7 +69,7 @@ Here's my list of my development tools. These may change from time to time, but 
 
 ## Everyday Carry
 ---
-- [Samsung Galaxy A22 5G](https://www.samsung.com/uk/smartphones/galaxy-a/galaxy-a22-5g-gray-64gb-sm-a226bzaueua/)
+- [iPhone 13](https://www.apple.com/sg/iphone-13/)
 - [Apple Watch Series 6](https://www.apple.com/lae/apple-watch-series-6/) with a [Watch cover](https://shopee.sg/-SG-for-Apple-Watch-Case-with-HD-Screen-Protector-for-iWatch-Series-7-6-5-4-3-2-1-SE-i.368100296.8713537659?sp_atk=e4866b8c-1acb-47d9-9d6b-7444604a0f0f)
 - [Black Teal coloured Crossing Modish Bi Fold Leather Wallet with Flap and Coin Pouch (RFID Protected)](https://thewalletshop.com/product/crossing-modish-bi-fold-leather-wallet-with-flap-and-coin-pouch-rfid-black-teal/)
 
