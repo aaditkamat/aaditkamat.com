@@ -1,6 +1,6 @@
-# Notes:
+# Approach to System Design
 
-## Step - by - step approach:
+## Notes:
 1. Requirement gathering:
     - Ask the right kind of questions to gather the information about the system that you are designing because the interviews are open ended and you need to have an end goal in mind
     - For e.g. If you are asked to design Twitter, you can ask questions like:
@@ -35,6 +35,6 @@ Based on the interviewer's feedback, you will get hints about the 2 or 3 compone
 For example, if you have a single point of failure how will you be addressing it? Do you have multiple replicas of data in case the servers crash? In case the services go down, do you have other copies that will run in place of those services so that the system is not shutdown? How will you monitor the performance of the services?
 
 
-# Links:
+## Links:
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 

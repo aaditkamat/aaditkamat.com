@@ -1,6 +1,7 @@
-# Case Studies
+# System Design Case Studies
+## Notes:
 
-## Case Study 1: Tiny URL
+### Case Study 1: Tiny URL
 
 1. Requirements (Functional & Non Functional):
     a. You need to create a short version of the long URL provided with an alias optionally provided -> Functional
@@ -54,7 +55,8 @@
 10. Telemetry:
 	a. Track the web page accessing the link, country, browser/platform used for accessing
 
-## Case Study 2: Design PasteBin
+### Case Study 2: Design PasteBin
+
 1. Requirement gathering:
     a. Users should be able to paste only text (Functional)
     b. User should be able to set the expiration time for the pastes (Functional)
@@ -98,7 +100,8 @@ Client talks to the application layer where the application server handles the r
 		
 7. Rest of the parts are similar to Case Study 1
 
-## Case Study 3: Instagram
+### Case Study 3: Instagram
+
 1. Requirement gathering:
 	- User should be able to follow other users
 	- User should be able to create/view/delete their photos and videos
@@ -141,3 +144,6 @@ Client talks to the application layer where the application server handles the r
    - Find the top 100 photos for a user with metrics like likeness, number of views etc by fetching the latest photos of a user and passing them through a ranking algorithm
    - The main problem is that we have to fetch data from a lot of tables and then do merge/sort operations. Better to pre generate the User Feed for each user in a table and then fetch it
    - You can follow either the push, pull or the hybrid model for sending data to the users. Push means that you are generating the news feed for the users in advance and sending to them whereas pull means that they are fetching it through pull requests. Hybrid combines both where you send data for users with a few number of followers (because their news feeds won't be a lot) and allow users with a large number of followers to pull data from your server
+
+## Links:
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
