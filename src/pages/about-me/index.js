@@ -95,7 +95,7 @@ export default function AboutMe() {
                     <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}> Hobbies </strong></summary>
                     <ul>
                         <li><Link to="https://www.youtube.com/c/yogawithadriene">Yoga</Link></li>
-                        <li><Link to="/blog">Blogging</Link></li>
+                        <li><Link to="https://aadit.substack.com/">Blogging</Link></li>
                         <li><Link to="https://www.goodreads.com/user/show/44524118-aadit-kamat">Reading</Link></li>
                         <li><Link to="https://www.imdb.com/user/ur69396122/?ref_=nv_usr_prof_2">Movies & TV Shows</Link></li>
                         <li> <Link to="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi">Music</Link> & <Link to="/podcasts"> Podcasts</Link></li>

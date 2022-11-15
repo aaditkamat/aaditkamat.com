@@ -52,11 +52,6 @@ module.exports = {
           position: 'left',
         },
         {
-          to: '/blog',
-          label: 'Blog',
-          position: 'left',
-        },
-        {
           to: '/bookmarks',
           label: 'Bookmarks',
           position: 'left',
@@ -93,12 +88,6 @@ module.exports = {
           'aria-label': 'GitHub repository',
         },
         {
-          href: 'https://t.me/aaditkamat',
-          position: 'right',
-          className: 'navbar-icon navbar-icon-telegram',
-          'aria-label': 'Telegram channel',
-        },
-        {
           href: 'https://twitter.com/aaditkamat',
           position: 'right',
           className: 'navbar-icon navbar-icon-twitter',
@@ -108,12 +97,6 @@ module.exports = {
           href: 'https://www.instagram.com/aadit_kamat',
           position: 'right',
           className: 'navbar-icon navbar-icon-instagram',
-          'aria-label': 'Instagram page',
-        },
-        {
-          href: 'https://www.facebook.com/AaditKam',
-          position: 'right',
-          className: 'navbar-icon navbar-icon-facebook',
           'aria-label': 'Instagram page',
         },
         {
@@ -134,18 +117,6 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: 'all',
-            copyright: `Copyright © 2020 - ${new Date().getFullYear()} Aadit Kamat. Built with Docusaurus.`,
-          },
-          editUrl: 'https://github.com/aaditkamat/aaditkamat',
-        },
-        gtag: {
-          trackingID: '3383267694',
-          anonymizeIP: true,
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
