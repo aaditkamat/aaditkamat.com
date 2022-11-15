@@ -20,11 +20,10 @@ export default function AboutMe() {
               </div>
               <div className={clsx('cul-md-6 cul-sm-12', styles.info)}>
                 <details open>
-                  <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}>Current Role </strong></summary>
+                  <summary><strong style={{fontSize: "var(--ifm-h3-font-size)"}}>Education</strong></summary>
                   <ul>
-                    <li> Position: <Link to="https://drive.google.com/file/d/183zIAkNqIhqcbPL6DBbIA_Of8bc0woH1/view?usp=sharing">Software Engineer (Contract) </Link> </li> 
-                    <li> Team: <Link to="https://www.visa.com.sg/visa-everywhere/innovation-centers/singapore.html">Innovation Center & Regional Solutions Singapore</Link></li>
-                    <li> Company: <Link to="https://visa.com.sg">Visa Inc. </Link></li>
+                    <li> <Link to="https://warrington.ufl.edu/master-of-science-in-information-systems-and-operations-management/">Master's in Information Systems and Operation Research (MSISOM) at the Warrington School of Business, University of Florida </Link></li>
+                    <li> <Link to="https://www.comp.nus.edu.sg/programmes/ug/cs/">Bachelor of Computing (Honours) in Computer Science at the School of Computing, National University of Singapore</Link></li>
                   </ul>
                 </details>
                 <details open>
