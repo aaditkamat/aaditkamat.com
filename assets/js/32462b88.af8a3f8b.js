@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[3923],{157:function(a){a.exports=JSON.parse('{"permalink":"/blog/tags/life/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":16,"previousPage":"/blog/tags/life","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

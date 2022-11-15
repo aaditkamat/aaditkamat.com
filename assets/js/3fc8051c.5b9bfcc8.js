@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaaditkamat_github_io=self.webpackChunkaaditkamat_github_io||[]).push([[4643],{6305:function(t){t.exports=JSON.parse('{"permalink":"/blog/tags/productivity","page":1,"postsPerPage":10,"totalPages":2,"totalCount":12,"nextPage":"/blog/tags/productivity/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
