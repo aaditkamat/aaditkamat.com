@@ -22,7 +22,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@axe-core/cli": "4.6.0",
+    "@axe-core/cli": "4.6.1",
     "cypress": "11.2.0"
   },
   "browserslist": {

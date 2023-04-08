@@ -241,24 +241,24 @@
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.0"
 
-"@axe-core/cli@4.6.0":
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/@axe-core/cli/-/cli-4.6.0.tgz#85acca6ca7bd5010cdcc4a5f27ac886f7e42c63b"
-  integrity sha512-h45BlS8IQt7etmMZdYJeasvDVn53ug+GcX3p41QKvV6JiMXnXBrqawNCWDwPEcVAMSYmCenJvrscB4MerFolOg==
+"@axe-core/cli@4.6.1":
+  version "4.6.1"
+  resolved "https://registry.yarnpkg.com/@axe-core/cli/-/cli-4.6.1.tgz#560fe54992d222296af76a945c7753e987d76c34"
+  integrity sha512-zEz44baYXm36oaC/QxfYzd5CGQMY8oJwSqSsPePb2vmZwL/JA6hubcAp4F/uLlZ42pffx/muCldfV7vNdQYo3g==
   dependencies:
-    "@axe-core/webdriverjs" "^4.6.0"
-    axe-core "^4.6.1"
-    chromedriver "^109.0.0"
+    "@axe-core/webdriverjs" "^4.6.1"
+    axe-core "^4.6.3"
+    chromedriver "^111.0.0"
     colors "^1.4.0"
     commander "^9.4.1"
-    selenium-webdriver "4.3.0"
+    selenium-webdriver "^4.8.1"
 
-"@axe-core/webdriverjs@^4.6.0":
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/@axe-core/webdriverjs/-/webdriverjs-4.6.0.tgz#f4be38036638910db637440c86b331fb96ff9b83"
-  integrity sha512-Xs88fPiqCK5rBtDWVAWYoKwKHNcyfjXk5HO/hYZtDz4weyOsMq4ENsXRWGGOaq93+994h5/DdkrdbNIRbP1iZQ==
+"@axe-core/webdriverjs@^4.6.1":
+  version "4.6.1"
+  resolved "https://registry.yarnpkg.com/@axe-core/webdriverjs/-/webdriverjs-4.6.1.tgz#a70b0ad03f1744488067323b00438aa8f730f8b8"
+  integrity sha512-OgpG11/GC+e/bFi1hsAmpm9eqiutTASin0kFBCgGDZ559UktxFzKBfUfcfifuxljkU4YwpeGVuMbXQJe2gyNMQ==
   dependencies:
-    axe-core "^4.6.1"
+    axe-core "^4.6.3"
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.10.4", "@babel/code-frame@^7.16.0", "@babel/code-frame@^7.16.7", "@babel/code-frame@^7.8.3":
   version "7.16.7"
@@ -3559,7 +3559,7 @@ aws4@^1.8.0:
   resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.11.0.tgz#d61f46d83b2519250e2784daf5b09479a8b41c59"
   integrity sha512-xh1Rl34h6Fi1DC2WWKfxUTVqRsNnr6LsKz2+hfwDxQJWmrx8+c7ylaqBMcHfl1U1r2dsifOvKX3LQuLNZ+XSvA==
 
-axe-core@^4.6.1:
+axe-core@^4.6.3:
   version "4.6.3"
   resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.6.3.tgz#fc0db6fdb65cc7a80ccf85286d91d64ababa3ece"
   integrity sha512-/BQzOX780JhsxDnPpH4ZiyrJAzcd8AfzFPkv+89veFSr1rcMjuq2JDCwypKaPeB6ljHp9KjXhPpjgCvQlWYuqg==
@@ -3970,10 +3970,10 @@ chrome-trace-event@^1.0.2:
   resolved "https://registry.yarnpkg.com/chrome-trace-event/-/chrome-trace-event-1.0.3.tgz#1015eced4741e15d06664a957dbbf50d041e26ac"
   integrity sha512-p3KULyQg4S7NIHixdwbGX+nFHkoBiA4YQmyWtjb8XngSKV124nJmRysgAeujbUVb15vh+RvFUfCPqU7rXk+hZg==
 
-chromedriver@^109.0.0:
-  version "109.0.0"
-  resolved "https://registry.yarnpkg.com/chromedriver/-/chromedriver-109.0.0.tgz#9407af72f2a01bb19e6db1b85cfc87eb3acd4f6b"
-  integrity sha512-jdmBq11IUwfThLFiygGTZ89qbROSQI4bICQjvOVQy2Bqr1LwC+MFkhwyZp3YG99eehQbZuTlQmmfCZBfpewTNA==
+chromedriver@^111.0.0:
+  version "111.0.0"
+  resolved "https://registry.yarnpkg.com/chromedriver/-/chromedriver-111.0.0.tgz#ef704dc44524ce5c1eced283d523b7aefd59ee19"
+  integrity sha512-XavNYNBBfKIrT8Oi/ywJ0DoOOU+jHF5bQWTkqStFsAXvfCV9VzYN3J+TGAvZdrpXeoixqPRGUxQ2yZhD2iowdQ==
   dependencies:
     "@testim/chrome-version" "^1.1.3"
     axios "^1.2.1"
@@ -8274,14 +8274,14 @@ select-hose@^2.0.0:
   resolved "https://registry.yarnpkg.com/select-hose/-/select-hose-2.0.0.tgz#625d8658f865af43ec962bfc376a37359a4994ca"
   integrity sha1-Yl2GWPhlr0Psliv8N2o3NZpJlMo=
 
-selenium-webdriver@4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/selenium-webdriver/-/selenium-webdriver-4.3.0.tgz#00526ddeca3c187c8d889cd3f790926b95d5f044"
-  integrity sha512-9XFr8w95BO7jageR61AtiB83fJNem3fdtOQcUpqIIDHWSxihomyG/yBlL1H4y/shi/dO/Ai3PJMAOG+OW3+JHw==
+selenium-webdriver@^4.8.1:
+  version "4.8.2"
+  resolved "https://registry.yarnpkg.com/selenium-webdriver/-/selenium-webdriver-4.8.2.tgz#2e7cb452133f7a6859879575852ef29f0ab4668c"
+  integrity sha512-d2dcpDLPcXlBy5qcPtB1B8RYTtj1N+JiHQLViFx3OP+i5hqkAuqTfJEYUh4qNX11S4NvbxjteiwN3OPwK3vPVw==
   dependencies:
     jszip "^3.10.0"
     tmp "^0.2.1"
-    ws ">=8.7.0"
+    ws ">=8.11.0"
 
 selfsigned@^2.0.1:
   version "2.0.1"
@@ -9465,10 +9465,10 @@ write-file-atomic@^3.0.0:
     signal-exit "^3.0.2"
     typedarray-to-buffer "^3.1.5"
 
-ws@>=8.7.0:
-  version "8.9.0"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-8.9.0.tgz#2a994bb67144be1b53fe2d23c53c028adeb7f45e"
-  integrity sha512-Ja7nszREasGaYUYCI2k4lCKIRTt+y7XuqVoHR44YpI49TtryyqbqvDMn5eqfW7e6HzTukDRIsXqzVHScqRcafg==
+ws@>=8.11.0:
+  version "8.13.0"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-8.13.0.tgz#9a9fb92f93cf41512a0735c8f4dd09b8a1211cd0"
+  integrity sha512-x9vcZYTrFPC7aSIbj7sRCYo7L/Xb8Iy+pW0ng0wt2vCJv7M9HOMy0UoN3rr+IFC7hb7vXoqS+P9ktyLLLhO+LA==
 
 ws@^7.3.1:
   version "7.5.7"
