@@ -16,7 +16,7 @@ export default function Calendar() {
                 color: '#0069ff',
                 textColor: '#ffffff',
                 branding: true,
-            })
+              })
           }
           </script>
        } 
@@ -25,8 +25,15 @@ export default function Calendar() {
         <div className="container">
           <h1 className={styles.header}> Calendar </h1>
           <div className="row">
-            <div className="col" style={{paddingLeft:"20%"}}>
-            <iframe src="https://calendar.google.com/calendar/embed?src=aaditrahulkamat%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+            <div className="col" style={{ paddingLeft: '20%' }}>
+              <iframe
+                src="https://calendar.google.com/calendar/embed?&wkst=1&src=https://calendar.google.com/calendar/embed?src=aaditrahulkamat%40gmail.com&ctz=America%2FNew_York"
+                className={styles.calendar}
+                width="800"
+                height="600"
+                frameborder="0"
+                scrolling="no"
+              ></iframe>
             </div>
           </div>
         </div>
