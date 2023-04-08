@@ -30,6 +30,11 @@ module.exports = {
       crossorigin: 'anonymous',
       async: true,
     },
+    {
+      src: 'https://tryarsturn.com/widget/widget.js',
+      async: true,
+      type: 'text/javascript',
+    }
   ],
   themeConfig: {
     metadata: [
