@@ -1,9 +1,16 @@
 import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
+import dotenv from 'dotenv';
 import styles from './styles.module.css';
 
 export default function Home() {
+  useEffect(() => {
+    // update the window object
+    window.arsturnAppKey = process.env.ARSTURN_APP_KEY;
+    window.theme = { theme: 'dark', primary: '#40414f', secondary: '#343541', text: '#ffffff' };
+  }, []);
+
   return (
     <Layout>
       <header className={clsx('hero', styles.heroTitle)}>
