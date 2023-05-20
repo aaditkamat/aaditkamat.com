@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/podcasts",
+  "source": "@site/src/pages/podcasts.md",
+  "title": "Podcasts",
+  "description": "Here you can find embed links that will take you to my favourite podcasts on Spotify.",
+  "frontMatter": {
+    "title": "Podcasts"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/projects",
+  "source": "@site/src/pages/projects.md",
+  "title": "Projects",
+  "description": "Plan It Right",
+  "frontMatter": {
+    "title": "Projects"
+  }
+}

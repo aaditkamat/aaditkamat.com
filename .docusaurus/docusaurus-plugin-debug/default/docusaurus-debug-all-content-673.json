@@ -1,0 +1,126 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "contentPath": "/workspaces/aaditkamat.com/docs",
+          "contentPathLocalized": "/workspaces/aaditkamat.com/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "defaultSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/bookmarks",
+        "source": "@site/src/pages/bookmarks.md",
+        "title": "Bookmarks",
+        "description": "These are the sites I have bookmarked for reference on the browsers on my Macbook Pro(Safari 15.4 & Chrome 100).",
+        "frontMatter": {
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/podcasts",
+        "source": "@site/src/pages/podcasts.md",
+        "title": "Podcasts",
+        "description": "Here you can find embed links that will take you to my favourite podcasts on Spotify.",
+        "frontMatter": {
+          "title": "Podcasts"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/projects",
+        "source": "@site/src/pages/projects.md",
+        "title": "Projects",
+        "description": "Plan It Right",
+        "frontMatter": {
+          "title": "Projects"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/tools",
+        "source": "@site/src/pages/tools.md",
+        "title": "Tools",
+        "description": "I was checking out an Alfred Unsplash workflow. One thing led to another, and I came upon the section on the author's website which lists the tools he uses for development. I've been meaning to do the same for a while now, but I wasn't sure where I would put it. His page gave me just the kind of inspiration I needed to do so.",
+        "frontMatter": {
+          "title": "Tools"
+        }
+      },
+      {
+        "type": "jsx",
+        "permalink": "/about-me/",
+        "source": "@site/src/pages/about-me/index.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/calendar/",
+        "source": "@site/src/pages/calendar/index.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/resume/",
+        "source": "@site/src/pages/resume/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

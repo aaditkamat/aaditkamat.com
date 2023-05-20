@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/bookmarks",
+  "source": "@site/src/pages/bookmarks.md",
+  "title": "Bookmarks",
+  "description": "These are the sites I have bookmarked for reference on the browsers on my Macbook Pro(Safari 15.4 & Chrome 100).",
+  "frontMatter": {
+    "title": "Bookmarks"
+  }
+}

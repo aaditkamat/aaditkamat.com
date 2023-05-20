@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/tools",
+  "source": "@site/src/pages/tools.md",
+  "title": "Tools",
+  "description": "I was checking out an Alfred Unsplash workflow. One thing led to another, and I came upon the section on the author's website which lists the tools he uses for development. I've been meaning to do the same for a while now, but I wasn't sure where I would put it. His page gave me just the kind of inspiration I needed to do so.",
+  "frontMatter": {
+    "title": "Tools"
+  }
+}
