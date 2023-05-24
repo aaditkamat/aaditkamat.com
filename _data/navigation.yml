@@ -1,0 +1,15 @@
+main:
+  - title: "About Me"
+    url: /about/
+  - title: "Bookmarks"
+    url: /bookmarks/
+  - title: "Calendar"
+    url: /calendar/
+  - title: "Podcasts"
+    url: /podcasts/
+  - title: "Projects"
+    url: /projects/
+  - title: "Résumé"
+    url: /resume/
+  - title: "Tools"
+    url: /tools/
